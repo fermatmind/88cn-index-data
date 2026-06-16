@@ -1,0 +1,7 @@
+[
+  { "slug": "founder-submitted", "name": "Founder Submitted", "description": "Submitted directly by the project founder or team." },
+  { "slug": "maintainer-scouted", "name": "Maintainer Scouted", "description": "Discovered and added by 88CN maintainers." },
+  { "slug": "public-launch", "name": "Public Launch", "description": "Sourced from public launch platforms such as Product Hunt, Hacker News, or official launch pages." },
+  { "slug": "open-source-repo", "name": "Open Source Repo", "description": "Sourced from a public open-source repository." },
+  { "slug": "community-pr", "name": "Community PR", "description": "Submitted by the community via GitHub pull request." }
+]

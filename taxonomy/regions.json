@@ -1,0 +1,12 @@
+[
+  { "slug": "global", "name": "Global", "description": "Worldwide audience, no specific regional focus." },
+  { "slug": "north-america", "name": "North America", "description": "Primarily serving North American users or teams." },
+  { "slug": "europe", "name": "Europe", "description": "Primarily serving European users or teams." },
+  { "slug": "china", "name": "China", "description": "Built by Chinese teams or primarily serving Chinese users." },
+  { "slug": "japan", "name": "Japan", "description": "Built by Japanese teams or primarily serving Japanese users." },
+  { "slug": "korea", "name": "Korea", "description": "Built by Korean teams or primarily serving Korean users." },
+  { "slug": "southeast-asia", "name": "Southeast Asia", "description": "Primarily serving Southeast Asian users or teams." },
+  { "slug": "latin-america", "name": "Latin America", "description": "Primarily serving Latin American users or teams." },
+  { "slug": "india", "name": "India", "description": "Built by Indian teams or primarily serving Indian users." },
+  { "slug": "other", "name": "Other", "description": "Other or unspecified regional focus." }
+]
