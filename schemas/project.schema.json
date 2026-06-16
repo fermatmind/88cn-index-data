@@ -1,0 +1,162 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/fermatmind/88cn-index-data/main/schemas/project.schema.json",
+  "title": "88CN Project Submission",
+  "description": "Schema for public AI project data submissions to the 88CN Index.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "name",
+    "slug",
+    "website_url",
+    "category_slug",
+    "one_liner",
+    "source_type",
+    "region",
+    "language"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "88cn-project-v1",
+      "description": "Schema version identifier."
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 120,
+      "description": "Public project name."
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "minLength": 1,
+      "maxLength": 120,
+      "description": "URL-safe unique identifier. Lowercase alphanumeric with hyphens."
+    },
+    "website_url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://",
+      "maxLength": 500,
+      "description": "Official project website (https:// only)."
+    },
+    "category_slug": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 64,
+      "description": "Slug of the primary category from taxonomy/categories.json."
+    },
+    "one_liner": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 240,
+      "description": "Single sentence describing the project."
+    },
+    "description": {
+      "type": "string",
+      "maxLength": 1200,
+      "description": "Optional longer description."
+    },
+    "github_url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://",
+      "maxLength": 500,
+      "description": "Public GitHub repository URL."
+    },
+    "docs_url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://",
+      "maxLength": 500,
+      "description": "Public documentation URL."
+    },
+    "pricing_url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://",
+      "maxLength": 500,
+      "description": "Public pricing page URL."
+    },
+    "product_hunt_url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://",
+      "maxLength": 500,
+      "description": "Product Hunt launch URL."
+    },
+    "hacker_news_url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://",
+      "maxLength": 500,
+      "description": "Hacker News discussion URL."
+    },
+    "founder_public_url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://",
+      "maxLength": 500,
+      "description": "Public founder profile URL (LinkedIn, Twitter, etc.)."
+    },
+    "launch_url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://",
+      "maxLength": 500,
+      "description": "Public launch announcement URL."
+    },
+    "tags": {
+      "type": "array",
+      "maxItems": 8,
+      "items": {
+        "type": "string",
+        "maxLength": 32
+      },
+      "description": "Optional tags for discovery (max 8)."
+    },
+    "tech_stack": {
+      "type": "array",
+      "maxItems": 12,
+      "items": {
+        "type": "string",
+        "maxLength": 64
+      },
+      "description": "Technology stack slugs (max 12)."
+    },
+    "source_type": {
+      "type": "string",
+      "enum": [
+        "founder-submitted",
+        "maintainer-scouted",
+        "public-launch",
+        "open-source-repo",
+        "community-pr"
+      ],
+      "description": "Source of this project entry."
+    },
+    "region": {
+      "type": "string",
+      "enum": [
+        "global",
+        "north-america",
+        "europe",
+        "china",
+        "japan",
+        "korea",
+        "southeast-asia",
+        "latin-america",
+        "india",
+        "other"
+      ],
+      "description": "Primary region of the project or team."
+    },
+    "language": {
+      "type": "string",
+      "enum": ["en", "zh", "ja", "de", "fr", "es", "ko", "other"],
+      "description": "Primary language of the project."
+    }
+  }
+}

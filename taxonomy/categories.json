@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "ai-agents",
+    "name": "AI Agents",
+    "description": "Agentic AI products and frameworks for autonomous or semi-autonomous workflows."
+  },
+  {
+    "slug": "ai-coding",
+    "name": "AI Coding",
+    "description": "AI developer tools for coding, review, testing, deployment and software workflows."
+  },
+  {
+    "slug": "open-source-ai",
+    "name": "Open Source AI",
+    "description": "Open-source AI projects, libraries, frameworks and infrastructure."
+  },
+  {
+    "slug": "local-llm",
+    "name": "Local LLM",
+    "description": "Tools and products for running, managing or building with local language models."
+  },
+  {
+    "slug": "rag-tools",
+    "name": "RAG Tools",
+    "description": "Retrieval-augmented generation tools, knowledge bases and document intelligence systems."
+  },
+  {
+    "slug": "ai-seo-tools",
+    "name": "AI SEO Tools",
+    "description": "AI products for search visibility, structured content, GEO and machine-readable web presence."
+  },
+  {
+    "slug": "ai-video-tools",
+    "name": "AI Video Tools",
+    "description": "AI products for video generation, editing, enhancement or automation."
+  },
+  {
+    "slug": "ai-design-tools",
+    "name": "AI Design Tools",
+    "description": "AI products for design, image generation, UI, branding and creative workflows."
+  },
+  {
+    "slug": "ai-microsaas",
+    "name": "AI Micro-SaaS",
+    "description": "Small, focused AI SaaS products built by independent teams or solo builders."
+  },
+  {
+    "slug": "chinese-ai-builders",
+    "name": "Chinese AI Builders",
+    "description": "AI products built by Chinese-speaking founders or teams going global."
+  }
+]

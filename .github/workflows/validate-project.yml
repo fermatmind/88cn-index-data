@@ -1,0 +1,38 @@
+name: Validate project data
+
+on:
+  pull_request:
+    paths:
+      - "data/**"
+      - "schemas/**"
+      - "taxonomy/**"
+      - "scripts/**"
+      - "package.json"
+      - ".github/workflows/validate-project.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - "data/**"
+      - "schemas/**"
+      - "taxonomy/**"
+      - "scripts/**"
+      - "package.json"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+      - run: npm ci
+      - run: npm run taxonomy:check
+      - run: npm run privacy:check
+      - run: npm run validate
+      - run: npm run aggregate

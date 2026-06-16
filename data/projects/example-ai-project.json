@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Example AI Project",
+  "slug": "example-ai-project",
+  "website_url": "https://example.com",
+  "category_slug": "ai-coding",
+  "one_liner": "An example AI project demonstrating the 88CN project data format.",
+  "description": "This is a fictional example project used to demonstrate the 88CN project data schema. It does not represent a real product.",
+  "github_url": "https://github.com/example/example-ai-project",
+  "docs_url": "https://docs.example.com",
+  "tags": ["example", "ai", "demo"],
+  "tech_stack": ["nextjs", "tailwind", "supabase", "openai"],
+  "source_type": "founder-submitted",
+  "region": "global",
+  "language": "en"
+}
