@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Fireflies",
+  "slug": "fireflies",
+  "website_url": "https://fireflies.ai",
+  "category_slug": "ai-microsaas",
+  "one_liner": "AI meeting assistant that records, transcribes, and summarizes conversations across platforms.",
+  "description": "Fireflies is an AI meeting assistant that joins calendar meetings to record, transcribe, and summarize conversations. It captures action items, generates searchable transcripts, and integrates with CRM and project management tools. Supports 60+ languages.",
+  "docs_url": "https://guide.fireflies.ai",
+  "tags": ["meetings", "transcription", "summarization", "productivity"],
+  "tech_stack": ["react", "python", "nodejs", "openai"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

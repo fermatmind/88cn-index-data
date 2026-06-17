@@ -1,0 +1,22 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Baichuan Intelligence",
+  "slug": "baichuan",
+  "website_url": "https://www.baichuan-ai.com",
+  "one_liner": "Chinese AI company releasing open and proprietary LLMs optimized for Chinese language and enterprise use.",
+  "description": "Baichuan Intelligence develops both open-source and proprietary large language models designed for Chinese-language applications. Its models are optimized for enterprise deployment across healthcare, legal, and financial sectors with focus on domain expertise.",
+  "github_url": "https://github.com/baichuan-inc",
+  "tags": [
+    "llm",
+    "chinese-nlp",
+    "enterprise",
+    "open-source"
+  ],
+  "category_slug": "chinese-ai-builders",
+  "tech_stack": [
+    "python"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "china",
+  "language": "zh"
+}

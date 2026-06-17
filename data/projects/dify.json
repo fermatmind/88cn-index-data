@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Dify",
+  "slug": "dify",
+  "website_url": "https://dify.ai",
+  "category_slug": "ai-agents",
+  "one_liner": "Open-source LLM application development platform with visual workflow builder and RAG pipeline.",
+  "description": "Dify is an open-source platform for building AI applications with a visual prompt orchestration interface, RAG pipeline, agent capabilities, and model management. Supports multiple LLM providers and includes an integrated backend for production deployment.",
+  "github_url": "https://github.com/langgenius/dify",
+  "docs_url": "https://docs.dify.ai",
+  "tags": ["agent", "rag", "low-code", "llm-ops"],
+  "tech_stack": ["python", "react", "postgres", "redis"],
+  "source_type": "maintainer-scouted",
+  "region": "china",
+  "language": "zh"
+}

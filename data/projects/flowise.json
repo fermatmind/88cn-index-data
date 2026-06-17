@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Flowise",
+  "slug": "flowise",
+  "website_url": "https://flowiseai.com",
+  "category_slug": "ai-agents",
+  "one_liner": "Open-source low-code platform for building LLM applications with a drag-and-drop visual builder.",
+  "description": "Flowise provides a visual interface for constructing LLM workflows including chains, agents, and RAG pipelines. It integrates with LangChain under the hood and supports multiple LLM providers and vector stores. Deployable as a Node.js service with a React frontend.",
+  "github_url": "https://github.com/FlowiseAI/Flowise",
+  "docs_url": "https://docs.flowiseai.com",
+  "tags": ["agent", "low-code", "visual-builder", "rag"],
+  "tech_stack": ["nodejs", "react", "langchain", "postgres"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Midjourney",
+  "slug": "midjourney",
+  "website_url": "https://www.midjourney.com",
+  "category_slug": "ai-design-tools",
+  "one_liner": "AI image generation platform producing high-quality artistic and photorealistic images from text prompts.",
+  "description": "Midjourney is a text-to-image AI generation platform known for high-quality, artistic outputs. Users generate images through Discord-based prompts with parameters for style, aspect ratio, and iterations. Offers multiple model versions with distinct aesthetic capabilities.",
+  "docs_url": "https://docs.midjourney.com",
+  "tags": ["image-generation", "text-to-image", "generative-art", "discord"],
+  "tech_stack": ["python"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

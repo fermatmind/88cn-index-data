@@ -1,0 +1,22 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Suno",
+  "slug": "suno",
+  "website_url": "https://suno.com",
+  "category_slug": "ai-microsaas",
+  "one_liner": "AI music generation platform creating full songs with vocals, instrumentation, and lyrics from prompts.",
+  "description": "Suno generates complete songs from text prompts, producing vocals, instrumentation, and lyrics in various genres. Users describe the style, mood, and subject, and Suno generates original musical compositions. Available through web and mobile apps.",
+  "tags": [
+    "music-generation",
+    "audio",
+    "creative-ai",
+    "songwriter"
+  ],
+  "tech_stack": [
+    "python"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en",
+  "docs_url": "https://help.suno.com"
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "StepFun",
+  "slug": "stepfun",
+  "website_url": "https://www.stepfun.com",
+  "one_liner": "Chinese AI startup developing competitive LLMs with a focus on reasoning and coding capabilities.",
+  "description": "StepFun (StepFun Xingchen) is a Chinese AI startup developing large language models. Its Step model series shows competitive performance in reasoning, mathematics, and coding benchmarks. Provides API access for developers and enterprise customers.",
+  "tags": [
+    "llm",
+    "reasoning",
+    "coding",
+    "api"
+  ],
+  "category_slug": "chinese-ai-builders",
+  "tech_stack": [
+    "python"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "china",
+  "language": "zh",
+  "docs_url": "https://platform.stepfun.com/docs"
+}

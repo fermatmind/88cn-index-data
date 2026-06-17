@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Outlines",
+  "slug": "outlines",
+  "website_url": "https://dottxt.co",
+  "category_slug": "open-source-ai",
+  "one_liner": "Structured text generation library for LLMs using constrained decoding and guided generation.",
+  "description": "Outlines is a library for generating structured text from LLMs by constraining generation to valid patterns. Supports JSON schemas, regular expressions, grammars, and custom types. Uses logit masking and finite-state automata for guaranteed valid outputs.",
+  "github_url": "https://github.com/dottxt-ai/outlines",
+  "docs_url": "https://dottxt-ai.github.io/outlines",
+  "tags": ["structured-generation", "constrained-decoding", "json-schema", "guidance"],
+  "tech_stack": ["python", "openai"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

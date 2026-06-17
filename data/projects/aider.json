@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Aider",
+  "slug": "aider",
+  "website_url": "https://aider.chat",
+  "category_slug": "ai-coding",
+  "one_liner": "AI pair programming tool in the terminal that edits code in your local git repository.",
+  "description": "Aider is a command-line AI pair programming tool that works directly with local git repositories. It understands existing code, makes edits across multiple files, generates commit messages, and can work with maps of your codebase for large projects. Supports many LLM providers.",
+  "github_url": "https://github.com/paul-gauthier/aider",
+  "docs_url": "https://aider.chat/docs",
+  "tags": ["terminal", "code-editing", "git-integration"],
+  "tech_stack": ["python", "openai", "anthropic"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Perplexity",
+  "slug": "perplexity",
+  "website_url": "https://www.perplexity.ai",
+  "category_slug": "ai-microsaas",
+  "one_liner": "AI-powered answer engine with real-time web search, source citations, and conversational research.",
+  "description": "Perplexity is an AI search and answer platform that combines LLM reasoning with real-time web search. It provides cited answers, follow-up questions, and research organization. Features include file upload analysis, Pro Search for deeper investigation, and collections for ongoing research.",
+  "docs_url": "https://docs.perplexity.ai",
+  "tags": ["ai-search", "research", "question-answering", "citations"],
+  "tech_stack": ["react", "python", "openai"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

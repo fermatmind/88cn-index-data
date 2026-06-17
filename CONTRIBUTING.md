@@ -67,6 +67,17 @@ All checks must pass before opening a PR.
 
 **Note:** PR merge does NOT mean the project is published on 88cn.com.
 
+## For Founders and Maintainers
+
+If you are the founder or maintainer of a seeded project:
+
+- You can **open a PR** to correct public facts (website, GitHub URL, description, etc.).
+- You can **request removal** of your project entry by opening a PR explaining the reason.
+- This repository does not store private data, emails, or financial information.
+- Inclusion does not imply endorsement, ranking, traffic, or AI citation guarantees.
+
+See [docs/FOUNDER_OUTREACH_PACK.md](docs/FOUNDER_OUTREACH_PACK.md) for more information about the outreach process.
+
 ## Requesting Changes or Removal
 
 If you need to update or remove a project entry, open a new PR explaining the reason. For removal of private data accidentally submitted, see [SECURITY.md](SECURITY.md).

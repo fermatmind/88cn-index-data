@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "GPT4All",
+  "slug": "gpt4all",
+  "website_url": "https://www.nomic.ai/gpt4all",
+  "category_slug": "open-source-ai",
+  "one_liner": "Open-source desktop LLM client for running models locally with local document embedding.",
+  "description": "GPT4All by Nomic AI is a free desktop application for running LLMs locally without GPU requirements. It includes local document RAG through embeddings, a curated model library, and cross-platform support for Windows, macOS, and Linux.",
+  "github_url": "https://github.com/nomic-ai/gpt4all",
+  "tags": ["desktop-app", "local-llm", "rag", "embeddings"],
+  "tech_stack": ["python"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

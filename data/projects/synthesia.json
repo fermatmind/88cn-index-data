@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Synthesia",
+  "slug": "synthesia",
+  "website_url": "https://www.synthesia.io",
+  "category_slug": "ai-video-tools",
+  "one_liner": "Enterprise AI video generation platform for creating presenter-led videos from text.",
+  "description": "Synthesia is an enterprise AI video platform that creates professional videos with AI avatars from text scripts. It supports 140+ languages, custom avatar creation, and team collaboration. Used for training, sales, and corporate communications at scale.",
+  "docs_url": "https://help.synthesia.io",
+  "tags": ["avatar-video", "enterprise", "localization", "training"],
+  "tech_stack": ["react", "nodejs", "python"],
+  "source_type": "maintainer-scouted",
+  "region": "europe",
+  "language": "en"
+}

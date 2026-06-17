@@ -1,0 +1,26 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "R2R",
+  "slug": "r2r",
+  "website_url": "https://r2r-docs.sciphi.ai",
+  "one_liner": "RAG-to-Riches: production-ready RAG engine with document management and knowledge graphs.",
+  "description": "R2R (RAG to Riches) is a production-oriented RAG engine built for document ingestion, retrieval, and knowledge management. It supports both traditional vector search and knowledge graph integration, with API-first design and deployment configurations.",
+  "github_url": "https://github.com/SciPhi-AI/R2R",
+  "docs_url": "https://r2r-docs.sciphi.ai",
+  "category_slug": "local-llm",
+  "tags": [
+    "rag",
+    "knowledge-graph",
+    "document-processing",
+    "api"
+  ],
+  "tech_stack": [
+    "python",
+    "fastapi",
+    "postgres",
+    "docker"
+  ],
+  "region": "global",
+  "language": "en",
+  "source_type": "maintainer-scouted"
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "OpenHands",
+  "slug": "openhands",
+  "website_url": "https://www.all-hands.dev",
+  "category_slug": "ai-coding",
+  "one_liner": "Open-source AI software development agent that can write code, run commands, and browse the web.",
+  "description": "OpenHands (formerly OpenDevin) is an autonomous AI software engineer agent. It can write code, execute commands in a sandbox, browse the web to learn from documentation, and iteratively debug and refine solutions. Runs as a Docker container with a web UI.",
+  "github_url": "https://github.com/All-Hands-AI/OpenHands",
+  "docs_url": "https://docs.all-hands.dev",
+  "tags": ["agent", "autonomous", "code-generation", "sandbox"],
+  "tech_stack": ["python", "react", "docker", "openai"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

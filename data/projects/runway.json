@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Runway",
+  "slug": "runway",
+  "website_url": "https://runwayml.com",
+  "category_slug": "ai-video-tools",
+  "one_liner": "AI-powered creative suite for video generation, editing, and visual effects.",
+  "description": "Runway is an applied AI research company providing creative tools for video and image generation. Its Gen-3 and Gen-4 models generate video from text, images, or video input. The platform includes video editing capabilities, motion tracking, and visual effects tools.",
+  "docs_url": "https://help.runwayml.com",
+  "tags": ["video-generation", "text-to-video", "creative-tools", "editing"],
+  "tech_stack": ["python", "react", "openai"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

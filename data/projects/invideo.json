@@ -1,0 +1,23 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "InVideo",
+  "slug": "invideo",
+  "website_url": "https://invideo.io",
+  "category_slug": "ai-video-tools",
+  "one_liner": "AI video creation platform that turns scripts, articles, or prompts into editable video content.",
+  "description": "InVideo is an online video creation platform that uses AI to generate videos from text inputs. It offers template-based editing, stock media integration, voice-over generation, and AI-powered scene suggestions. Designed for marketers and content creators.",
+  "tags": [
+    "video-creation",
+    "template",
+    "marketing",
+    "content-creation"
+  ],
+  "tech_stack": [
+    "react",
+    "nodejs"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en",
+  "docs_url": "https://invideo.io/help"
+}

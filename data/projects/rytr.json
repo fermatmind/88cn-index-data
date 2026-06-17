@@ -1,0 +1,22 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Rytr",
+  "slug": "rytr",
+  "website_url": "https://rytr.me",
+  "category_slug": "ai-seo-tools",
+  "one_liner": "Budget-friendly AI writing assistant with 40+ content templates and tone customization.",
+  "description": "Rytr is an accessible AI writing tool that generates content across 40+ templates and use cases. It supports multiple languages, tone customization, and built-in plagiarism checking. Designed for freelancers, small businesses, and content creators.",
+  "tags": [
+    "content-generation",
+    "writing-assistant",
+    "templates"
+  ],
+  "tech_stack": [
+    "openai",
+    "nodejs"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en",
+  "docs_url": "https://rytr.me/resources"
+}

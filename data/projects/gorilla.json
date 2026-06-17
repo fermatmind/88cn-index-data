@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Gorilla",
+  "slug": "gorilla",
+  "website_url": "https://gorilla.cs.berkeley.edu",
+  "category_slug": "open-source-ai",
+  "one_liner": "LLM fine-tuned for API calling that can generate correct API invocations from natural language queries.",
+  "description": "Gorilla by UC Berkeley is an LLM fine-tuned specifically for generating accurate API calls. It can reliably invoke thousands of APIs including LLM APIs, cloud services, and data platform APIs. Uses document retrieval to stay current with API specifications.",
+  "github_url": "https://github.com/ShishirPatil/gorilla",
+  "tags": ["api-calling", "function-calling", "llm", "tool-use"],
+  "tech_stack": ["python", "langchain"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

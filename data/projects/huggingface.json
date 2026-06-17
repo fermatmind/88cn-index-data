@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Hugging Face",
+  "slug": "huggingface",
+  "website_url": "https://huggingface.co",
+  "category_slug": "open-source-ai",
+  "one_liner": "Model hub and open-source platform for machine learning with libraries, datasets, and community spaces.",
+  "description": "Hugging Face is the central platform for the open-source ML community. It hosts over 1 million models and datasets, provides the Transformers and Diffusers libraries, facilitates model inference through Inference API, and supports collaborative development through Spaces and repositories.",
+  "github_url": "https://github.com/huggingface/transformers",
+  "docs_url": "https://huggingface.co/docs",
+  "tags": ["model-hub", "transformers", "ml-infrastructure", "datasets"],
+  "tech_stack": ["python", "docker", "openai"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

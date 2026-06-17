@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Cody",
+  "slug": "cody",
+  "website_url": "https://sourcegraph.com/cody",
+  "category_slug": "ai-coding",
+  "one_liner": "AI coding assistant with codebase-aware context, inline edits, and automated code review.",
+  "description": "Cody by Sourcegraph is an AI coding assistant that understands entire codebases through code graph analysis. It provides chat, inline autocomplete, multi-file edits, and automated code review. Works across IDEs and integrates with the Sourcegraph code intelligence platform.",
+  "github_url": "https://github.com/sourcegraph/cody",
+  "docs_url": "https://sourcegraph.com/docs/cody",
+  "tags": ["code-completion", "code-review", "code-search"],
+  "tech_stack": ["openai", "anthropic", "react"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "MiniMax",
+  "slug": "minimax",
+  "website_url": "https://www.minimaxi.com",
+  "one_liner": "Chinese AI platform with proprietary LLM and Hailuo video generation models.",
+  "description": "MiniMax develops proprietary large language models and multimodal AI systems. It operates the Hailuo AI conversational platform and provides text-to-video model capabilities. Serves both consumer and enterprise sectors with API-based access to its models.",
+  "tags": [
+    "llm",
+    "video-generation",
+    "multimodal",
+    "api"
+  ],
+  "category_slug": "chinese-ai-builders",
+  "tech_stack": [
+    "python"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "china",
+  "language": "zh",
+  "docs_url": "https://platform.minimaxi.com/document"
+}

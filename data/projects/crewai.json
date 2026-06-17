@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "CrewAI",
+  "slug": "crewai",
+  "website_url": "https://crewai.com",
+  "category_slug": "ai-agents",
+  "one_liner": "Multi-agent orchestration framework that enables AI agents to collaborate on complex tasks.",
+  "description": "CrewAI is a framework for orchestrating role-based AI agents that work together. Each agent has a defined role, goal, and backstory. Agents collaborate through sequential or hierarchical processes. Used for research automation, content generation, and complex workflow automation.",
+  "github_url": "https://github.com/crewAIInc/crewAI",
+  "docs_url": "https://docs.crewai.com",
+  "tags": ["agent", "multi-agent", "orchestration", "workflow"],
+  "tech_stack": ["python", "langchain", "openai"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

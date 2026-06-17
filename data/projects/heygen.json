@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "HeyGen",
+  "slug": "heygen",
+  "website_url": "https://www.heygen.com",
+  "category_slug": "ai-video-tools",
+  "one_liner": "AI video platform for creating professional talking-head videos with digital avatars.",
+  "description": "HeyGen generates professional AI avatar videos for business communication, training, and marketing. It offers realistic digital avatars with lip-sync, voice cloning, and multi-language translation. Includes templates for sales outreach, learning content, and personalized videos.",
+  "docs_url": "https://help.heygen.com",
+  "tags": ["avatar-video", "talking-head", "video-translation", "business"],
+  "tech_stack": ["react", "nodejs"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

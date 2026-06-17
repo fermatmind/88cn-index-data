@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "MLC LLM",
+  "slug": "mlc-llm",
+  "website_url": "https://llm.mlc.ai",
+  "category_slug": "open-source-ai",
+  "one_liner": "Universal LLM deployment engine for running models on any hardware from phones to servers.",
+  "description": "MLC LLM provides a machine learning compilation framework for deploying LLMs across diverse hardware backends. Supports iOS, Android, web browsers (WebGPU), and native desktop apps. Uses TVM Unity for optimized compilation across GPU, CPU, and mobile.",
+  "github_url": "https://github.com/mlc-ai/mlc-llm",
+  "docs_url": "https://llm.mlc.ai/docs",
+  "tags": ["deployment", "mobile", "webgpu", "compilation"],
+  "tech_stack": ["python", "docker"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

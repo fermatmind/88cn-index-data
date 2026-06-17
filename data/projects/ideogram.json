@@ -1,0 +1,23 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Ideogram",
+  "slug": "ideogram",
+  "website_url": "https://ideogram.ai",
+  "category_slug": "ai-design-tools",
+  "one_liner": "AI image generation platform specialized in accurate text rendering within generated images.",
+  "description": "Ideogram is an AI image generator distinguished by its accurate text rendering in images. It generates images from text prompts with reliable inclusion of words, letters, and typography. Offers multiple style presets, aspect ratios, and an explore community feed.",
+  "tags": [
+    "image-generation",
+    "text-in-image",
+    "typography",
+    "generative-art"
+  ],
+  "tech_stack": [
+    "python",
+    "react"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en",
+  "docs_url": "https://docs.ideogram.ai"
+}

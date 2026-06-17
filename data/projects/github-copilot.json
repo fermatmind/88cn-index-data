@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "GitHub Copilot",
+  "slug": "github-copilot",
+  "website_url": "https://github.com/features/copilot",
+  "category_slug": "ai-coding",
+  "one_liner": "AI-powered code completion and chat assistant integrated into the developer workflow.",
+  "description": "GitHub Copilot is an AI pair programmer that provides code completions, chat-based assistance, and code review features. It integrates with VS Code, JetBrains, and other editors through the GitHub Copilot extension. Supports multiple programming languages and frameworks.",
+  "docs_url": "https://docs.github.com/en/copilot",
+  "tags": ["code-completion", "code-generation", "developer-tools"],
+  "tech_stack": ["openai", "nodejs"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

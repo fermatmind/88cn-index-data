@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Guidance",
+  "slug": "guidance",
+  "website_url": "https://github.com/guidance-ai/guidance",
+  "category_slug": "open-source-ai",
+  "one_liner": "Programming paradigm for controlling LLM generation with templates that interleave prompting and logic.",
+  "description": "Guidance is a Microsoft-developed library for structured LLM generation that combines prompting, logical control flow, and constrained output in a single Python DSL. Supports JSON, regex, and custom grammar constraints with efficient generation-level control.",
+  "github_url": "https://github.com/guidance-ai/guidance",
+  "tags": ["structured-generation", "prompting", "templating", "microsoft"],
+  "tech_stack": ["python", "openai"],
+  "source_type": "open-source-repo",
+  "region": "global",
+  "language": "en"
+}

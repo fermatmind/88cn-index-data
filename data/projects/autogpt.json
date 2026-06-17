@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "AutoGPT",
+  "slug": "autogpt",
+  "website_url": "https://agpt.co",
+  "category_slug": "ai-agents",
+  "one_liner": "Autonomous AI agent platform for building and deploying self-directed task completion systems.",
+  "description": "AutoGPT is an autonomous AI agent that breaks down goals into tasks and executes them iteratively. It uses access to web search, file systems, and external tools. The platform includes a marketplace for pre-built agents and a cloud-hosted service.",
+  "github_url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "tags": ["agent", "autonomous", "task-automation"],
+  "tech_stack": ["python", "openai", "docker"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

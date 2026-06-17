@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "SuperAGI",
+  "slug": "superagi",
+  "website_url": "https://superagi.com",
+  "category_slug": "ai-agents",
+  "one_liner": "Open-source autonomous AI agent framework with tool marketplace and agent management.",
+  "description": "SuperAGI is a framework for building and deploying autonomous agents. It features a graphical agent management interface, a tool marketplace for agent capabilities, and goal-based task execution. Supports multiple LLMs and includes performance monitoring.",
+  "github_url": "https://github.com/TransformerOptimus/SuperAGI",
+  "tags": ["agent", "autonomous", "tool-marketplace"],
+  "tech_stack": ["python", "fastapi", "react", "postgres"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

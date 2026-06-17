@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "ChatDev",
+  "slug": "chatdev",
+  "website_url": "https://chatdev.ai",
+  "category_slug": "ai-agents",
+  "one_liner": "Collaborative AI agents for software development using natural language requirements.",
+  "description": "ChatDev simulates a virtual software company where multiple AI agents collaborate through chat. Agents assume roles like CEO, CTO, programmer, and designer. The platform generates code, documentation, and visual assets from natural language requirements.",
+  "github_url": "https://github.com/OpenBMB/ChatDev",
+  "tags": ["agent", "code-generation", "software-development"],
+  "tech_stack": ["python", "openai"],
+  "source_type": "maintainer-scouted",
+  "region": "china",
+  "language": "en"
+}

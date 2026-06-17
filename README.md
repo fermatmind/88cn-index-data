@@ -60,6 +60,15 @@ The following are computed or managed by the 88CN platform and are **not** store
 - Traffic, click, or engagement data
 - Backer or capital interest data
 
+## Seed Project Policy
+
+This repository contains **public project facts only**.
+
+- **Seed entries are not endorsements.** Inclusion in the seed corpus does not imply 88CN endorsement or recommendation.
+- **Merged seed entries are not automatically published on 88cn.com.** All seed data goes through the standard import → admin review → publish pipeline.
+- **No ranking, traffic, or AI citation guarantees.** 88CN makes no promises about search visibility or AI search citation for any listed project.
+- **Founders can request correction or removal** by opening a PR. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed contribution guidelines.

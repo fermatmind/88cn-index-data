@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Mistral AI",
+  "slug": "mistral-ai",
+  "website_url": "https://mistral.ai",
+  "category_slug": "open-source-ai",
+  "one_liner": "Open-source AI model company releasing frontier models under Apache 2.0 with cloud API access.",
+  "description": "Mistral AI develops and releases open-weight large language models including Mistral, Mixtral, and Codestral series. Models are published under permissive licenses (Apache 2.0) with cloud API options via La Plateforme. Focus on efficiency, performance, and developer accessibility.",
+  "docs_url": "https://docs.mistral.ai",
+  "tags": ["llm", "open-weight", "foundation-models"],
+  "tech_stack": ["python", "openai"],
+  "source_type": "maintainer-scouted",
+  "region": "europe",
+  "language": "en"
+}

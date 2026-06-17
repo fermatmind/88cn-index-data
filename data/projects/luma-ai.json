@@ -1,0 +1,23 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Luma AI",
+  "slug": "luma-ai",
+  "website_url": "https://lumalabs.ai",
+  "category_slug": "ai-video-tools",
+  "one_liner": "Generative AI platform for creating 3D content and video with Dream Machine photorealistic rendering.",
+  "description": "Luma Labs develops generative AI tools for 3D capture and video creation. Its Dream Machine product generates high-quality video clips from text and image prompts with photorealistic rendering and camera motion. Also provides 3D Gaussian Splatting technology for scene capture.",
+  "tags": [
+    "video-generation",
+    "3d-generation",
+    "photorealism",
+    "text-to-video"
+  ],
+  "tech_stack": [
+    "python",
+    "react"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en",
+  "docs_url": "https://lumalabs.ai/docs"
+}

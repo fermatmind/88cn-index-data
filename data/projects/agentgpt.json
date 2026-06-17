@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "AgentGPT",
+  "slug": "agentgpt",
+  "website_url": "https://agentgpt.reworkd.ai",
+  "category_slug": "ai-agents",
+  "one_liner": "Browser-based autonomous AI agent that decomposes goals into tasks and executes them in a chain.",
+  "description": "AgentGPT is a web-based autonomous agent platform where users define a goal and name, then watch the agent iteratively plan and execute tasks. It uses LLMs for reasoning and can search the web, write code, and generate content.",
+  "github_url": "https://github.com/reworkd/AgentGPT",
+  "tags": ["agent", "autonomous", "web-based"],
+  "tech_stack": ["nextjs", "openai", "docker"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

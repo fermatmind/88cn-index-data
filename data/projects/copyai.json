@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Copy.ai",
+  "slug": "copyai",
+  "website_url": "https://www.copy.ai",
+  "category_slug": "ai-seo-tools",
+  "one_liner": "AI-powered go-to-market platform for sales and marketing content with workflow automation.",
+  "description": "Copy.ai provides AI-driven content generation for sales and marketing teams. Its platform includes pre-built workflows for common go-to-market tasks, brand voice customization, and integration with CRM and marketing tools. Features AI chat and bulk content generation.",
+  "docs_url": "https://www.copy.ai/docs",
+  "tags": ["content-generation", "sales", "marketing", "workflow"],
+  "tech_stack": ["openai", "react", "nodejs"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

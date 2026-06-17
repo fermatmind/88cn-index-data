@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Augment Code",
+  "slug": "augment-code",
+  "website_url": "https://www.augmentcode.com",
+  "category_slug": "ai-coding",
+  "one_liner": "AI coding assistant with deep codebase understanding for large enterprise software stacks.",
+  "description": "Augment Code is an AI coding assistant designed for large-scale codebases. It indexes entire repositories to provide context-aware code completions, explanations, and modifications. Targets enterprise developers working with complex, multi-repository projects.",
+  "docs_url": "https://www.augmentcode.com/docs",
+  "tags": ["code-completion", "enterprise", "code-search"],
+  "tech_stack": ["nodejs"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

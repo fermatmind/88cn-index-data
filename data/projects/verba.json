@@ -1,0 +1,24 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Verba",
+  "slug": "verba",
+  "website_url": "https://github.com/weaviate/Verba",
+  "one_liner": "Open-source RAG chatbot frontend for Weaviate with document ingestion and conversational search.",
+  "description": "Verba is an open-source RAG application that provides a user-friendly chat interface over Weaviate vector databases. It supports document ingestion, chunking strategies, and conversational retrieval with source citations. Designed as a reference implementation and starter kit.",
+  "github_url": "https://github.com/weaviate/Verba",
+  "category_slug": "rag-tools",
+  "tags": [
+    "rag",
+    "chatbot",
+    "weaviate",
+    "document-search"
+  ],
+  "tech_stack": [
+    "python",
+    "docker",
+    "openai"
+  ],
+  "region": "global",
+  "language": "en",
+  "source_type": "maintainer-scouted"
+}

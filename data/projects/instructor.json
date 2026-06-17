@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Instructor",
+  "slug": "instructor",
+  "website_url": "https://python.useinstructor.com",
+  "category_slug": "open-source-ai",
+  "one_liner": "Python library for structured LLM outputs with type-safe extraction and validation.",
+  "description": "Instructor makes it easy to extract structured data from LLM outputs using Python type hints and Pydantic models. It patches OpenAI, Anthropic, and other LLM clients to return validated, typed objects. Supports retry logic, streaming, and multi-modal extraction.",
+  "github_url": "https://github.com/jxnl/instructor",
+  "docs_url": "https://python.useinstructor.com",
+  "tags": ["structured-output", "pydantic", "extraction", "type-safety"],
+  "tech_stack": ["python", "openai", "anthropic"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Agno",
+  "slug": "agno",
+  "website_url": "https://www.agno.com",
+  "category_slug": "ai-agents",
+  "one_liner": "Lightweight framework for building multimodal AI agents with memory, tools, and knowledge.",
+  "description": "Agno (formerly Phidata) is a lightweight framework for building AI agents with knowledge (RAG), memory (session and long-term), tools (functions, structured outputs), and reasoning capabilities. Supports multiple model providers and agent team delegation.",
+  "github_url": "https://github.com/agno-agi/agno",
+  "docs_url": "https://docs.agno.com",
+  "tags": ["agent", "rag", "multimodal", "memory"],
+  "tech_stack": ["python", "openai", "postgres"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

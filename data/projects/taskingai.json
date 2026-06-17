@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "TaskingAI",
+  "slug": "taskingai",
+  "website_url": "https://www.tasking.ai",
+  "category_slug": "ai-agents",
+  "one_liner": "API-first platform for building and deploying AI agents with managed model and tool integration.",
+  "description": "TaskingAI provides an API-driven platform for creating AI agents with unified access to multiple LLM providers, managed vector stores for RAG, and a plugin system for tool integration. Includes a cloud dashboard and self-hosted deployment options.",
+  "github_url": "https://github.com/TaskingAI/TaskingAI",
+  "docs_url": "https://docs.tasking.ai",
+  "tags": ["agent", "api-platform", "rag", "multi-model"],
+  "tech_stack": ["python", "fastapi", "react", "postgres"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

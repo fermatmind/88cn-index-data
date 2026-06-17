@@ -1,0 +1,23 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Faraday",
+  "slug": "faraday",
+  "website_url": "https://faraday.dev",
+  "one_liner": "Desktop application for running LLMs locally with character personas and offline-first privacy.",
+  "description": "Faraday is a desktop app for running LLMs locally, emphasizing privacy and offline-first operation. It supports character-based conversations, customizable personalities, model management from Hugging Face, and GPU acceleration.",
+  "category_slug": "local-llm",
+  "tags": [
+    "desktop-app",
+    "local-llm",
+    "characters",
+    "privacy"
+  ],
+  "tech_stack": [
+    "react",
+    "nodejs"
+  ],
+  "region": "global",
+  "language": "en",
+  "source_type": "maintainer-scouted",
+  "docs_url": "https://faraday.dev/docs"
+}

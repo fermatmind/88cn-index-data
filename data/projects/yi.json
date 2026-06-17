@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Yi",
+  "slug": "yi",
+  "website_url": "https://01.ai",
+  "one_liner": "Open-source LLM series by 01.AI with competitive bilingual performance and vision capabilities.",
+  "description": "Yi by 01.AI is a series of open-source large language models with strong performance in both English and Chinese. The Yi series includes base, chat, and vision models released under permissive licenses. Founded by Kai-Fu Lee with a focus on accessible AI.",
+  "github_url": "https://github.com/01-ai/Yi",
+  "tags": ["llm", "bilingual", "open-source", "vision"],
+  "category_slug": "chinese-ai-builders",
+  "tech_stack": ["python"],
+  "source_type": "maintainer-scouted",
+  "region": "china",
+  "language": "zh"
+}

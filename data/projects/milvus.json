@@ -1,0 +1,25 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Milvus",
+  "slug": "milvus",
+  "website_url": "https://milvus.io",
+  "one_liner": "Cloud-native open-source vector database for billion-scale similarity search and AI workloads.",
+  "description": "Milvus is a cloud-native vector database designed for large-scale AI applications. It supports GPU-accelerated indexing, hybrid search (dense and sparse vectors), multi-vector support, and scalable distributed architecture. A graduated CNCF project.",
+  "github_url": "https://github.com/milvus-io/milvus",
+  "docs_url": "https://milvus.io/docs",
+  "category_slug": "rag-tools",
+  "tags": [
+    "vector-database",
+    "cloud-native",
+    "billion-scale",
+    "cncf"
+  ],
+  "tech_stack": [
+    "python",
+    "docker",
+    "openai"
+  ],
+  "region": "global",
+  "language": "en",
+  "source_type": "maintainer-scouted"
+}
