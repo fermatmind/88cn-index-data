@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Cline",
+  "slug": "cline",
+  "website_url": "https://cline.bot",
+  "category_slug": "ai-coding",
+  "one_liner": "Autonomous coding agent in VS Code that can create files, run commands, and use the browser.",
+  "description": "Cline is a VS Code extension that provides an autonomous coding agent capable of creating and editing files, executing terminal commands, and browsing the web. It uses the Model Context Protocol (MCP) to connect to external tools and APIs.",
+  "github_url": "https://github.com/cline/cline",
+  "tags": ["agent", "autonomous", "ide-extension", "code-generation"],
+  "tech_stack": ["nodejs", "mcp", "openai", "anthropic"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

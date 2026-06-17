@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Canva",
+  "slug": "canva",
+  "website_url": "https://www.canva.com",
+  "category_slug": "ai-design-tools",
+  "one_liner": "Design platform with integrated AI features for image generation, editing, and template creation.",
+  "description": "Canva is a visual design platform that integrates AI features including Magic Studio for image generation, background removal, text-to-image, and design suggestions. Serves both consumer and enterprise users with template-based design and brand kit management.",
+  "docs_url": "https://www.canva.com/help",
+  "tags": ["design-platform", "image-generation", "template", "branding"],
+  "tech_stack": ["react", "nodejs", "openai"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Chroma",
+  "slug": "chroma",
+  "website_url": "https://www.trychroma.com",
+  "one_liner": "Open-source embedding database designed for AI applications with developer-friendly API.",
+  "description": "Chroma is an open-source vector database purpose-built for AI applications. It stores embeddings alongside metadata, provides filtering and search capabilities, and integrates with popular ML frameworks. Designed for simplicity with both local and cloud deployment options.",
+  "github_url": "https://github.com/chroma-core/chroma",
+  "docs_url": "https://docs.trychroma.com",
+  "category_slug": "rag-tools",
+  "tags": [
+    "vector-database",
+    "embeddings",
+    "similarity-search",
+    "rag"
+  ],
+  "tech_stack": [
+    "python",
+    "docker",
+    "postgres"
+  ],
+  "region": "global",
+  "language": "en",
+  "source_type": "maintainer-scouted"
+}

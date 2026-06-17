@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Figma",
+  "slug": "figma",
+  "website_url": "https://www.figma.com",
+  "category_slug": "ai-design-tools",
+  "one_liner": "Collaborative design platform with AI features for interface design, prototyping, and design systems.",
+  "description": "Figma is a collaborative design platform that incorporates AI features for design assistance, asset generation, and automated layout suggestions. Its AI capabilities help with naming layers, generating content, removing backgrounds, and interface design optimization.",
+  "docs_url": "https://help.figma.com",
+  "tags": ["design-platform", "ui-design", "prototyping", "collaboration"],
+  "tech_stack": ["react", "nodejs"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Anything LLM",
+  "slug": "anything-llm",
+  "website_url": "https://anythingllm.com",
+  "one_liner": "All-in-one desktop and cloud application for document Q&A with multi-model and multi-format support.",
+  "description": "AnythingLLM is a desktop and cloud application that combines document ingestion, vector storage, and LLM chat into a complete RAG solution. It supports multiple LLM providers, embedding models, and vector databases with a focus on ease of setup.",
+  "github_url": "https://github.com/Mintplex-Labs/anything-llm",
+  "docs_url": "https://docs.anythingllm.com",
+  "category_slug": "rag-tools",
+  "tags": [
+    "rag",
+    "document-qa",
+    "desktop-app",
+    "knowledge-management"
+  ],
+  "tech_stack": [
+    "nodejs",
+    "react",
+    "docker",
+    "openai"
+  ],
+  "region": "global",
+  "language": "en",
+  "source_type": "maintainer-scouted"
+}

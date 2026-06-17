@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Open Interpreter",
+  "slug": "open-interpreter",
+  "website_url": "https://www.openinterpreter.com",
+  "category_slug": "open-source-ai",
+  "one_liner": "Open-source natural language interface for running code and controlling computers through conversation.",
+  "description": "Open Interpreter lets LLMs run code locally in Python, JavaScript, Shell, and more through a natural language chat interface. It can execute system commands, access files, control browsers, and interact with APIs. Functions as a general-purpose computer interface agent.",
+  "github_url": "https://github.com/OpenInterpreter/open-interpreter",
+  "docs_url": "https://docs.openinterpreter.com",
+  "tags": ["code-execution", "agent", "natural-language", "cli"],
+  "tech_stack": ["python", "openai", "nodejs"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

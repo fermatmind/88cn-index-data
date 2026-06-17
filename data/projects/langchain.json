@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "LangChain",
+  "slug": "langchain",
+  "website_url": "https://www.langchain.com",
+  "category_slug": "ai-agents",
+  "one_liner": "Open-source framework for building LLM-powered applications with composable tools and agents.",
+  "description": "LangChain provides a modular framework for developing applications with LLMs. It includes chains for sequential LLM calls, agents for autonomous decision-making, tools for external API integration, and retrieval modules for RAG. Available in Python and JavaScript, with an ecosystem of integrations.",
+  "github_url": "https://github.com/langchain-ai/langchain",
+  "docs_url": "https://python.langchain.com/docs",
+  "tags": ["agent", "llm-framework", "rag", "orchestration"],
+  "tech_stack": ["python", "langchain", "openai"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

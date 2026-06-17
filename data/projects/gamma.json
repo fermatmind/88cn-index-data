@@ -1,0 +1,23 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Gamma",
+  "slug": "gamma",
+  "website_url": "https://gamma.app",
+  "category_slug": "ai-microsaas",
+  "one_liner": "AI-powered platform for creating presentations, documents, and web pages from text prompts.",
+  "description": "Gamma is an AI content creation tool that generates polished presentations, documents, and webpages from user prompts. It combines text generation, layout design, and visual asset creation in a single platform. Supports real-time collaboration and embedding.",
+  "tags": [
+    "presentations",
+    "document-generation",
+    "ai-writing"
+  ],
+  "tech_stack": [
+    "react",
+    "nodejs",
+    "openai"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en",
+  "docs_url": "https://gamma.app/docs"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Jasper",
+  "slug": "jasper",
+  "website_url": "https://www.jasper.ai",
+  "category_slug": "ai-seo-tools",
+  "one_liner": "AI content platform for enterprise marketing teams with brand voice, campaigns, and analytics.",
+  "description": "Jasper is an enterprise AI content platform that helps marketing teams create on-brand content across channels. It includes brand voice customization, campaign management, AI image generation, and analytics. Integrates with business tools and supports team collaboration workflows.",
+  "docs_url": "https://help.jasper.ai",
+  "tags": ["content-generation", "marketing", "enterprise", "brand-voice"],
+  "tech_stack": ["openai", "react", "nodejs"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

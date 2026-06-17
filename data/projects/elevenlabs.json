@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "ElevenLabs",
+  "slug": "elevenlabs",
+  "website_url": "https://elevenlabs.io",
+  "category_slug": "ai-microsaas",
+  "one_liner": "AI voice synthesis platform for text-to-speech, voice cloning, and dubbing with natural quality.",
+  "description": "ElevenLabs provides AI voice generation and cloning technology for creating natural-sounding speech from text. Features include voice cloning from short samples, multi-language support, voice design, and dubbing for video content. Available via web app and API.",
+  "docs_url": "https://elevenlabs.io/docs",
+  "tags": ["text-to-speech", "voice-cloning", "dubbing", "synthesis"],
+  "tech_stack": ["python", "react", "nodejs"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

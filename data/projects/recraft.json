@@ -1,0 +1,23 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Recraft",
+  "slug": "recraft",
+  "website_url": "https://www.recraft.ai",
+  "category_slug": "ai-design-tools",
+  "one_liner": "AI design platform for generating vector illustrations, icons, and brand-consistent visual assets.",
+  "description": "Recraft is an AI design tool focused on generating vector graphics, illustrations, and brand assets. It produces SVG outputs that can be edited in design software, supports brand style consistency, and includes tools for icons, logos, and marketing illustrations.",
+  "tags": [
+    "vector-graphics",
+    "brand-design",
+    "illustration",
+    "svg"
+  ],
+  "tech_stack": [
+    "react",
+    "python"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en",
+  "docs_url": "https://www.recraft.ai/docs"
+}

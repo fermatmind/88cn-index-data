@@ -1,0 +1,25 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Bolt",
+  "slug": "bolt",
+  "website_url": "https://bolt.new",
+  "category_slug": "ai-coding",
+  "one_liner": "Browser-based AI development environment for building full-stack web applications.",
+  "description": "Bolt.new by StackBlitz is a browser-based AI development platform where users can prompt an AI agent to build, edit, and deploy full-stack web applications. It uses WebContainers to run a complete development environment in the browser with the AI agent executing commands.",
+  "tags": [
+    "code-generation",
+    "full-stack",
+    "browser-ide",
+    "agent"
+  ],
+  "tech_stack": [
+    "react",
+    "nodejs",
+    "openai",
+    "docker"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en",
+  "docs_url": "https://bolt.new/docs"
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Lovable",
+  "slug": "lovable",
+  "website_url": "https://lovable.dev",
+  "category_slug": "ai-coding",
+  "one_liner": "AI-powered platform for generating and deploying full-stack web applications from natural language prompts.",
+  "description": "Lovable is an AI full-stack application builder that generates production-ready web apps from descriptions. It creates React frontends with Supabase backends, supports iterative refinement, and provides one-click deployment. Built for non-technical founders and developers alike.",
+  "tags": [
+    "full-stack",
+    "code-generation",
+    "app-builder"
+  ],
+  "tech_stack": [
+    "react",
+    "supabase",
+    "openai",
+    "postgres"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "europe",
+  "language": "en",
+  "docs_url": "https://docs.lovable.dev"
+}

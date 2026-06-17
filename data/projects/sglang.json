@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "SGLang",
+  "slug": "sglang",
+  "website_url": "https://sglang.ai",
+  "category_slug": "open-source-ai",
+  "one_liner": "Efficient LLM serving framework with structured generation language and optimized inference.",
+  "description": "SGLang is an LLM serving system that combines a frontend structured generation language with a high-performance inference backend. It supports RadixAttention for prefix caching, constrained decoding, and multi-modal models. An alternative to vLLM with additional structured output capabilities.",
+  "github_url": "https://github.com/sgl-project/sglang",
+  "docs_url": "https://sglang.readthedocs.io",
+  "tags": ["inference", "serving", "structured-generation"],
+  "tech_stack": ["python", "docker"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

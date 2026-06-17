@@ -1,0 +1,24 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Llama Stack",
+  "slug": "llama-stack",
+  "website_url": "https://llama-stack.ai",
+  "one_liner": "Standardized API and toolchain by Meta for building LLM agent applications across providers.",
+  "description": "Llama Stack defines a standardized set of APIs and toolchain components for building LLM-powered agents across different providers and deployments. It provides protocol definitions, reference implementations, and client SDKs for agentic AI applications.",
+  "github_url": "https://github.com/meta-llama/llama-stack",
+  "docs_url": "https://llama-stack.readthedocs.io",
+  "category_slug": "local-llm",
+  "tags": [
+    "llm-api",
+    "agent-framework",
+    "standard",
+    "meta"
+  ],
+  "tech_stack": [
+    "python",
+    "docker"
+  ],
+  "region": "global",
+  "language": "en",
+  "source_type": "maintainer-scouted"
+}

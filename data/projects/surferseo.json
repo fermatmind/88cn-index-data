@@ -1,0 +1,22 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Surfer SEO",
+  "slug": "surferseo",
+  "website_url": "https://surferseo.com",
+  "category_slug": "ai-seo-tools",
+  "one_liner": "Content optimization tool that analyzes top-ranking pages for SEO-driven content creation.",
+  "description": "Surfer SEO provides data-driven content optimization by analyzing hundreds of ranking factors from top search results. It offers content scoring, keyword recommendations, NLP-based topic analysis, and an AI content editor. Integrates with Google Docs and WordPress.",
+  "tags": [
+    "seo",
+    "content-optimization",
+    "keyword-analysis",
+    "nlp"
+  ],
+  "tech_stack": [
+    "react"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en",
+  "docs_url": "https://surferseo.com/academy"
+}

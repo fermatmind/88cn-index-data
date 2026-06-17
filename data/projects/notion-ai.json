@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Notion AI",
+  "slug": "notion-ai",
+  "website_url": "https://www.notion.so/product/ai",
+  "category_slug": "ai-microsaas",
+  "one_liner": "AI writing and analysis features integrated into the Notion workspace and document platform.",
+  "description": "Notion AI adds generative AI capabilities to the Notion workspace platform. It can generate, edit, and summarize text within documents, databases, and wikis. Features include Q&A over workspace content, translation, and action item extraction from meeting notes.",
+  "docs_url": "https://www.notion.so/help/notion-ai",
+  "tags": ["workspace", "writing-assistant", "summarization", "knowledge-management"],
+  "tech_stack": ["react", "nodejs", "openai"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

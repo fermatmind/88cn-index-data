@@ -1,0 +1,23 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Leonardo AI",
+  "slug": "leonardo-ai",
+  "website_url": "https://leonardo.ai",
+  "category_slug": "ai-design-tools",
+  "one_liner": "AI art and image generation platform with fine-tuned models and production-oriented workflows.",
+  "description": "Leonardo AI is an image generation platform tailored for game assets and creative production. It provides fine-tuned models, image-to-image generation, upscaling, and a canvas editor. Features model training on custom datasets and a community model marketplace.",
+  "tags": [
+    "image-generation",
+    "game-assets",
+    "model-training",
+    "creative"
+  ],
+  "tech_stack": [
+    "react",
+    "python"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en",
+  "docs_url": "https://docs.leonardo.ai"
+}

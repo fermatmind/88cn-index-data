@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "DeepSeek",
+  "slug": "deepseek",
+  "website_url": "https://www.deepseek.com",
+  "one_liner": "Chinese AI research lab releasing open-weight LLMs with competitive performance and permissive licensing.",
+  "description": "DeepSeek is an AI research company developing large language models including the DeepSeek-V and DeepSeek-R1 series. It releases models under permissive open-source licenses with published technical reports. Known for efficient architecture and strong reasoning capabilities.",
+  "github_url": "https://github.com/deepseek-ai",
+  "tags": ["llm", "open-weight", "reasoning", "research"],
+  "category_slug": "chinese-ai-builders",
+  "tech_stack": ["python", "openai"],
+  "source_type": "maintainer-scouted",
+  "region": "china",
+  "language": "zh"
+}

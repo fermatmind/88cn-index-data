@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Tabnine",
+  "slug": "tabnine",
+  "website_url": "https://www.tabnine.com",
+  "category_slug": "ai-coding",
+  "one_liner": "AI code completion assistant with context-aware suggestions and team personalization.",
+  "description": "Tabnine provides AI-powered code completions with whole-line and full-function predictions. It learns from team codebases while maintaining privacy, supports multiple programming languages, and integrates with major IDEs. Offers both cloud and self-hosted deployment options.",
+  "docs_url": "https://www.tabnine.com/docs",
+  "tags": ["code-completion", "developer-tools"],
+  "tech_stack": ["python", "nodejs"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Frase",
+  "slug": "frase",
+  "website_url": "https://www.frase.io",
+  "category_slug": "ai-seo-tools",
+  "one_liner": "AI-powered content optimization platform for research, writing, and SEO content strategy.",
+  "description": "Frase helps content teams research, write, and optimize SEO content. It analyzes search results to identify topics and questions, provides AI writing assistance, and scores content against competitor benchmarks. Includes content brief generation and topic clustering.",
+  "tags": [
+    "content-optimization",
+    "seo",
+    "research",
+    "content-strategy"
+  ],
+  "tech_stack": [
+    "openai",
+    "react"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en",
+  "docs_url": "https://www.frase.io/academy"
+}

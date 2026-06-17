@@ -1,0 +1,22 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Doubao",
+  "slug": "doubao",
+  "website_url": "https://www.doubao.com",
+  "one_liner": "ByteDance's AI assistant platform with conversational capabilities, tools, and multimodal features.",
+  "description": "Doubao is ByteDance's consumer-facing AI assistant platform offering conversational AI, image generation, document analysis, and coding help. It integrates with the ByteDance ecosystem and provides both web and mobile experiences. One of the most widely used AI products in China.",
+  "tags": [
+    "chatbot",
+    "multimodal",
+    "consumer",
+    "assistant"
+  ],
+  "category_slug": "chinese-ai-builders",
+  "tech_stack": [
+    "python"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "china",
+  "language": "zh",
+  "docs_url": "https://www.doubao.com/help"
+}

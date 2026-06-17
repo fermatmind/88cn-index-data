@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Adobe Firefly",
+  "slug": "adobe-firefly",
+  "website_url": "https://firefly.adobe.com",
+  "category_slug": "ai-microsaas",
+  "one_liner": "Adobe's family of creative generative AI models for image generation, editing, and design workflows.",
+  "description": "Adobe Firefly is a family of generative AI models integrated across Adobe Creative Cloud. It provides text-to-image generation, generative fill, text effects, and vector recoloring. Trained on Adobe Stock and public domain content with commercial safety in mind.",
+  "docs_url": "https://helpx.adobe.com/firefly.html",
+  "tags": ["image-generation", "generative-fill", "creative-cloud", "design"],
+  "tech_stack": ["python", "react"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

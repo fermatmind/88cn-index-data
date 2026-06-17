@@ -1,0 +1,25 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Replit",
+  "slug": "replit",
+  "website_url": "https://replit.com",
+  "category_slug": "ai-coding",
+  "one_liner": "Collaborative browser-based IDE with AI agent for building, testing, and deploying applications.",
+  "description": "Replit is a cloud-based development platform that combines a collaborative IDE with an AI agent for code generation, debugging, and deployment. Supports dozens of programming languages and includes integrated hosting, databases, and real-time collaboration.",
+  "tags": [
+    "browser-ide",
+    "code-generation",
+    "collaboration",
+    "deployment"
+  ],
+  "tech_stack": [
+    "nodejs",
+    "postgres",
+    "docker",
+    "python"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en",
+  "docs_url": "https://docs.replit.com"
+}

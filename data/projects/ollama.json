@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Ollama",
+  "slug": "ollama",
+  "website_url": "https://ollama.com",
+  "category_slug": "open-source-ai",
+  "one_liner": "Open-source tool for running large language models locally on consumer hardware.",
+  "description": "Ollama simplifies local LLM deployment by packaging model weights, configuration, and execution into a single CLI tool. Supports Llama, Mistral, Gemma, and other models. Provides a REST API for application integration and includes a library of pre-configured models.",
+  "github_url": "https://github.com/ollama/ollama",
+  "docs_url": "https://github.com/ollama/ollama/tree/main/docs",
+  "tags": ["local-llm", "model-runner", "inference", "cli"],
+  "tech_stack": ["ollama", "docker", "python"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

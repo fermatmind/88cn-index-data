@@ -1,0 +1,23 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Otter.ai",
+  "slug": "otter-ai",
+  "website_url": "https://otter.ai",
+  "category_slug": "ai-microsaas",
+  "one_liner": "AI meeting notes and transcription service with real-time captioning and automated summaries.",
+  "description": "Otter.ai provides real-time transcription and AI-powered meeting notes. It captures conversations, generates summaries with action items, and allows searching across past meetings. Integrates with Zoom, Google Meet, and Microsoft Teams for automated joining.",
+  "tags": [
+    "meetings",
+    "transcription",
+    "note-taking",
+    "summarization"
+  ],
+  "tech_stack": [
+    "python",
+    "react"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en",
+  "docs_url": "https://help.otter.ai"
+}

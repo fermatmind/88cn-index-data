@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Writesonic",
+  "slug": "writesonic",
+  "website_url": "https://writesonic.com",
+  "category_slug": "ai-seo-tools",
+  "one_liner": "AI writing platform for creating marketing content, articles, ads, and SEO-optimized copy.",
+  "description": "Writesonic is an AI content creation platform that generates marketing copy, blog articles, ad text, and product descriptions. It includes an AI article writer with SEO optimization, chatbot builder, and brand voice configuration. Supports team collaboration and API access.",
+  "docs_url": "https://docs.writesonic.com",
+  "tags": ["content-generation", "copywriting", "seo", "marketing"],
+  "tech_stack": ["openai", "react", "nodejs"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

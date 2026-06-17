@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Text Generation WebUI",
+  "slug": "text-generation-webui",
+  "website_url": "https://github.com/oobabooga/text-generation-webui",
+  "category_slug": "open-source-ai",
+  "one_liner": "Gradio-based web interface for running LLMs locally with extensive model and training support.",
+  "description": "Text Generation WebUI (oobabooga) is a Gradio web interface for managing and interacting with local LLMs. Supports multiple model loaders (Transformers, llama.cpp, ExLlama, AutoGPTQ), training modes (LoRA, QLoRA), and extensions for character personas, RAG, and more.",
+  "github_url": "https://github.com/oobabooga/text-generation-webui",
+  "tags": ["web-ui", "local-llm", "training", "gradio"],
+  "tech_stack": ["python", "docker"],
+  "source_type": "open-source-repo",
+  "region": "global",
+  "language": "en"
+}

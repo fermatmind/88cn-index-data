@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "MetaGPT",
+  "slug": "meta-gpt",
+  "website_url": "https://www.deepwisdom.ai",
+  "category_slug": "ai-agents",
+  "one_liner": "Multi-agent framework that assigns GPTs to different roles in a software company to automate end-to-end development.",
+  "description": "MetaGPT simulates a software company structure by assigning LLM agents to roles like product manager, architect, engineer, and QA. It generates requirements, system designs, code, and documentation through structured collaboration between role-playing agents.",
+  "github_url": "https://github.com/geekan/MetaGPT",
+  "tags": ["agent", "multi-agent", "code-generation", "software-engineering"],
+  "tech_stack": ["python", "openai"],
+  "source_type": "maintainer-scouted",
+  "region": "china",
+  "language": "en"
+}

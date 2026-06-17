@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Jan",
+  "slug": "jan",
+  "website_url": "https://jan.ai",
+  "category_slug": "open-source-ai",
+  "one_liner": "Open-source desktop app for running LLMs locally with a ChatGPT-like interface.",
+  "description": "Jan is an open-source desktop application for running LLMs locally. It provides an offline-first ChatGPT alternative with a focus on privacy. Supports downloading and running models from Hugging Face, customizable assistants, and extensions for additional capabilities.",
+  "github_url": "https://github.com/janhq/jan",
+  "docs_url": "https://jan.ai/docs",
+  "tags": ["desktop-app", "local-llm", "privacy", "offline"],
+  "tech_stack": ["react", "nodejs", "docker"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

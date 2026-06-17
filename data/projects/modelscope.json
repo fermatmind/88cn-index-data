@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "ModelScope",
+  "slug": "modelscope",
+  "website_url": "https://www.modelscope.cn",
+  "one_liner": "Alibaba's open-source model hub and community platform for Chinese and global AI developers.",
+  "description": "ModelScope is a model hub and community platform by Alibaba Cloud hosting thousands of pre-trained models, datasets, and AI applications. It provides model hosting, versioning, inference endpoints, and an active developer community. Serves as a key distribution channel for Chinese AI models.",
+  "github_url": "https://github.com/modelscope",
+  "docs_url": "https://www.modelscope.cn/docs",
+  "tags": ["model-hub", "community", "deployment", "datasets"],
+  "category_slug": "chinese-ai-builders",
+  "tech_stack": ["python", "docker", "react"],
+  "source_type": "maintainer-scouted",
+  "region": "china",
+  "language": "zh"
+}

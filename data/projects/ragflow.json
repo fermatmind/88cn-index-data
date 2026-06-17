@@ -1,0 +1,25 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "RAGFlow",
+  "slug": "ragflow",
+  "website_url": "https://ragflow.io",
+  "one_liner": "Open-source RAG engine with deep document understanding and knowledge-based QA.",
+  "description": "RAGFlow is an open-source RAG engine focused on deep document understanding. It provides intelligent document parsing that preserves layout and table structures, combined with knowledge-based question answering and customizable chunking strategies.",
+  "github_url": "https://github.com/infiniflow/ragflow",
+  "docs_url": "https://ragflow.io/docs",
+  "category_slug": "rag-tools",
+  "tags": [
+    "rag",
+    "document-understanding",
+    "knowledge-base",
+    "qa"
+  ],
+  "tech_stack": [
+    "python",
+    "docker",
+    "react"
+  ],
+  "region": "china",
+  "language": "en",
+  "source_type": "maintainer-scouted"
+}

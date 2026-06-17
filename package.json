@@ -9,7 +9,8 @@
     "aggregate": "node scripts/aggregate-projects.mjs",
     "privacy:check": "node scripts/check-forbidden-fields.mjs",
     "taxonomy:check": "node scripts/check-taxonomy.mjs",
-    "test": "npm run taxonomy:check && npm run privacy:check && npm run validate && npm run aggregate"
+    "seed:check": "node scripts/check-seed-batch.mjs",
+    "test": "npm run taxonomy:check && npm run privacy:check && npm run validate && npm run aggregate && npm run seed:check"
   },
   "devDependencies": {
     "ajv": "^8.17.1",

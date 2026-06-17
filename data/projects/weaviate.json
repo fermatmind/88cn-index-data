@@ -1,0 +1,24 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Weaviate",
+  "slug": "weaviate",
+  "website_url": "https://weaviate.io",
+  "one_liner": "Open-source vector database with AI-native architecture supporting hybrid and generative search.",
+  "description": "Weaviate is an open-source vector database that combines vector search with keyword search (hybrid) and generative search capabilities. It supports multi-modal data, automatic schema inference, and integrates with ML model providers for vectorization at query time.",
+  "github_url": "https://github.com/weaviate/weaviate",
+  "docs_url": "https://weaviate.io/developers/weaviate",
+  "category_slug": "rag-tools",
+  "tags": [
+    "vector-database",
+    "hybrid-search",
+    "open-source",
+    "rag"
+  ],
+  "tech_stack": [
+    "python",
+    "docker"
+  ],
+  "region": "global",
+  "language": "en",
+  "source_type": "maintainer-scouted"
+}

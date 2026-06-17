@@ -1,0 +1,26 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "LlamaIndex",
+  "slug": "llamaindex",
+  "website_url": "https://www.llamaindex.ai",
+  "one_liner": "Data framework for connecting LLMs to external data sources with advanced indexing and retrieval.",
+  "description": "LlamaIndex is a framework for building LLM applications over data. It provides data connectors for 160+ sources, indexing structures for organizing data, query engines for retrieval, and agent integration. Supports RAG, structured data extraction, and multi-modal data processing.",
+  "github_url": "https://github.com/run-llama/llama_index",
+  "docs_url": "https://docs.llamaindex.ai",
+  "category_slug": "rag-tools",
+  "tags": [
+    "rag",
+    "data-framework",
+    "indexing",
+    "retrieval"
+  ],
+  "tech_stack": [
+    "python",
+    "langchain",
+    "openai",
+    "llamaindex"
+  ],
+  "region": "global",
+  "language": "en",
+  "source_type": "maintainer-scouted"
+}

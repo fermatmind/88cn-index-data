@@ -1,0 +1,21 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Udio",
+  "slug": "udio",
+  "website_url": "https://www.udio.com",
+  "category_slug": "ai-microsaas",
+  "one_liner": "AI music generation platform for creating original songs with custom lyrics and genre selection.",
+  "description": "Udio is an AI music creation platform that generates original songs from text prompts. Users can specify lyrics, genres, and musical styles. It supports iterative refinement, remixing, and extending generated tracks. Founded by former Google DeepMind researchers.",
+  "tags": [
+    "music-generation",
+    "audio",
+    "song-creation"
+  ],
+  "tech_stack": [
+    "python"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en",
+  "docs_url": "https://www.udio.com/docs"
+}

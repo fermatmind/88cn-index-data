@@ -1,0 +1,24 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Qdrant",
+  "slug": "qdrant",
+  "website_url": "https://qdrant.tech",
+  "one_liner": "High-performance open-source vector search engine written in Rust with filtering and quantization.",
+  "description": "Qdrant is a vector similarity search engine optimized for production workloads. Written in Rust, it provides payload-based filtering, scalar quantization, and on-disk storage. Available as a docker image, managed cloud service, or embedded library.",
+  "github_url": "https://github.com/qdrant/qdrant",
+  "docs_url": "https://qdrant.tech/documentation",
+  "category_slug": "rag-tools",
+  "tags": [
+    "vector-database",
+    "similarity-search",
+    "rust",
+    "rag"
+  ],
+  "tech_stack": [
+    "python",
+    "docker"
+  ],
+  "region": "global",
+  "language": "en",
+  "source_type": "maintainer-scouted"
+}

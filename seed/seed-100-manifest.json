@@ -1,0 +1,1120 @@
+{
+  "schema_version": "88cn-seed-manifest-v1",
+  "batch_name": "seed-100-projects-v0",
+  "created_at": "2026-06-17",
+  "curation_policy": "docs/SEED_100_CURATION_POLICY.md",
+  "items": [
+    {
+      "slug": "adobe-firefly",
+      "project_file": "data/projects/adobe-firefly.json",
+      "selection_reason": "Creative generative AI models by Adobe with public help docs.",
+      "verified_public_sources": [
+        "https://firefly.adobe.com",
+        "https://helpx.adobe.com/firefly.html"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "agentgpt",
+      "project_file": "data/projects/agentgpt.json",
+      "selection_reason": "Browser-based autonomous agent with public GitHub repository.",
+      "verified_public_sources": [
+        "https://agentgpt.reworkd.ai",
+        "https://github.com/reworkd/AgentGPT"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "agno",
+      "project_file": "data/projects/agno.json",
+      "selection_reason": "Lightweight agent framework with public docs and open-source code.",
+      "verified_public_sources": [
+        "https://www.agno.com",
+        "https://github.com/agno-agi/agno",
+        "https://docs.agno.com"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "aider",
+      "project_file": "data/projects/aider.json",
+      "selection_reason": "Popular terminal-based AI pair programming tool on GitHub.",
+      "verified_public_sources": [
+        "https://aider.chat",
+        "https://github.com/paul-gauthier/aider",
+        "https://aider.chat/docs"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "anything-llm",
+      "project_file": "data/projects/anything-llm.json",
+      "selection_reason": "All-in-one RAG desktop and cloud app with public GitHub.",
+      "verified_public_sources": [
+        "https://anythingllm.com",
+        "https://github.com/Mintplex-Labs/anything-llm",
+        "https://docs.anythingllm.com"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "augment-code",
+      "project_file": "data/projects/augment-code.json",
+      "selection_reason": "Enterprise AI coding assistant with public product documentation.",
+      "verified_public_sources": [
+        "https://www.augmentcode.com",
+        "https://www.augmentcode.com/docs"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "autogpt",
+      "project_file": "data/projects/autogpt.json",
+      "selection_reason": "Pioneering autonomous agent project with high public visibility.",
+      "verified_public_sources": [
+        "https://agpt.co",
+        "https://github.com/Significant-Gravitas/AutoGPT"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "baichuan",
+      "project_file": "data/projects/baichuan.json",
+      "selection_reason": "Verified AI project with public sources.",
+      "verified_public_sources": [
+        "https://www.baichuan-ai.com",
+        "https://github.com/baichuan-inc"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "bolt",
+      "project_file": "data/projects/bolt.json",
+      "selection_reason": "Browser-based AI dev environment by StackBlitz with public product.",
+      "verified_public_sources": [
+        "https://bolt.new"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "canva",
+      "project_file": "data/projects/canva.json",
+      "selection_reason": "Major design platform with AI features and public help docs.",
+      "verified_public_sources": [
+        "https://www.canva.com",
+        "https://www.canva.com/help"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "chatdev",
+      "project_file": "data/projects/chatdev.json",
+      "selection_reason": "Notable multi-agent code generation project from Chinese AI research.",
+      "verified_public_sources": [
+        "https://chatdev.ai",
+        "https://github.com/OpenBMB/ChatDev"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "chroma",
+      "project_file": "data/projects/chroma.json",
+      "selection_reason": "Open-source embedding database with public GitHub and documentation.",
+      "verified_public_sources": [
+        "https://www.trychroma.com",
+        "https://github.com/chroma-core/chroma",
+        "https://docs.trychroma.com"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "cline",
+      "project_file": "data/projects/cline.json",
+      "selection_reason": "Autonomous VS Code coding agent with public GitHub repository.",
+      "verified_public_sources": [
+        "https://cline.bot",
+        "https://github.com/cline/cline"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "cody",
+      "project_file": "data/projects/cody.json",
+      "selection_reason": "AI coding assistant by Sourcegraph with public GitHub and docs.",
+      "verified_public_sources": [
+        "https://sourcegraph.com/cody",
+        "https://github.com/sourcegraph/cody",
+        "https://sourcegraph.com/docs/cody"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "continue",
+      "project_file": "data/projects/continue.json",
+      "selection_reason": "Open-source AI IDE extension with strong GitHub community.",
+      "verified_public_sources": [
+        "https://continue.dev",
+        "https://github.com/continuedev/continue",
+        "https://docs.continue.dev"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "copyai",
+      "project_file": "data/projects/copyai.json",
+      "selection_reason": "AI go-to-market platform with public documentation.",
+      "verified_public_sources": [
+        "https://www.copy.ai",
+        "https://www.copy.ai/docs"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "cortex",
+      "project_file": "data/projects/cortex.json",
+      "selection_reason": "C++ local LLM engine by Jan with public GitHub and docs.",
+      "verified_public_sources": [
+        "https://cortex.so",
+        "https://github.com/janhq/cortex",
+        "https://cortex.so/docs"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "crewai",
+      "project_file": "data/projects/crewai.json",
+      "selection_reason": "Prominent multi-agent framework with active GitHub and public docs.",
+      "verified_public_sources": [
+        "https://crewai.com",
+        "https://github.com/crewAIInc/crewAI",
+        "https://docs.crewai.com"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "cursor",
+      "project_file": "data/projects/cursor.json",
+      "selection_reason": "Leading AI-first code editor with public product and documentation.",
+      "verified_public_sources": [
+        "https://cursor.com",
+        "https://docs.cursor.com"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "deepseek",
+      "project_file": "data/projects/deepseek.json",
+      "selection_reason": "Major Chinese open-weight LLM lab with public GitHub and research.",
+      "verified_public_sources": [
+        "https://www.deepseek.com",
+        "https://github.com/deepseek-ai"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "descript",
+      "project_file": "data/projects/descript.json",
+      "selection_reason": "AI-powered video and audio editor with public help docs.",
+      "verified_public_sources": [
+        "https://www.descript.com",
+        "https://help.descript.com"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "dify",
+      "project_file": "data/projects/dify.json",
+      "selection_reason": "Leading Chinese open-source LLM platform with strong GitHub presence.",
+      "verified_public_sources": [
+        "https://dify.ai",
+        "https://github.com/langgenius/dify",
+        "https://docs.dify.ai"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "doubao",
+      "project_file": "data/projects/doubao.json",
+      "selection_reason": "ByteDance consumer AI assistant platform widely used in China.",
+      "verified_public_sources": [
+        "https://www.doubao.com"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "elevenlabs",
+      "project_file": "data/projects/elevenlabs.json",
+      "selection_reason": "Leading AI voice synthesis platform with public docs.",
+      "verified_public_sources": [
+        "https://elevenlabs.io",
+        "https://elevenlabs.io/docs"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "exo",
+      "project_file": "data/projects/exo.json",
+      "selection_reason": "Innovative distributed LLM inference project on GitHub.",
+      "verified_public_sources": [
+        "https://github.com/exo-explore/exo",
+        "https://github.com/exo-explore/exo"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "faraday",
+      "project_file": "data/projects/faraday.json",
+      "selection_reason": "Offline-first local LLM desktop app with public website.",
+      "verified_public_sources": [
+        "https://faraday.dev"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "fastgpt",
+      "project_file": "data/projects/fastgpt.json",
+      "selection_reason": "Open-source Chinese knowledge base platform with public GitHub.",
+      "verified_public_sources": [
+        "https://fastgpt.cn",
+        "https://github.com/labring/FastGPT",
+        "https://doc.fastgpt.cn"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "figma",
+      "project_file": "data/projects/figma.json",
+      "selection_reason": "Leading design platform with AI features and public documentation.",
+      "verified_public_sources": [
+        "https://www.figma.com",
+        "https://help.figma.com"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "fireflies",
+      "project_file": "data/projects/fireflies.json",
+      "selection_reason": "AI meeting assistant with public docs.",
+      "verified_public_sources": [
+        "https://fireflies.ai",
+        "https://guide.fireflies.ai"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "flowise",
+      "project_file": "data/projects/flowise.json",
+      "selection_reason": "Popular low-code LLM builder with active open-source community.",
+      "verified_public_sources": [
+        "https://flowiseai.com",
+        "https://github.com/FlowiseAI/Flowise",
+        "https://docs.flowiseai.com"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "frase",
+      "project_file": "data/projects/frase.json",
+      "selection_reason": "AI content optimization platform with public product page.",
+      "verified_public_sources": [
+        "https://www.frase.io"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "gamma",
+      "project_file": "data/projects/gamma.json",
+      "selection_reason": "AI presentation and document platform with public product.",
+      "verified_public_sources": [
+        "https://gamma.app"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "github-copilot",
+      "project_file": "data/projects/github-copilot.json",
+      "selection_reason": "Dominant AI coding assistant with official docs and public feature page.",
+      "verified_public_sources": [
+        "https://github.com/features/copilot",
+        "https://docs.github.com/en/copilot"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "gorilla",
+      "project_file": "data/projects/gorilla.json",
+      "selection_reason": "Research LLM for API calling from UC Berkeley with public code and paper.",
+      "verified_public_sources": [
+        "https://gorilla.cs.berkeley.edu",
+        "https://github.com/ShishirPatil/gorilla"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "gpt4all",
+      "project_file": "data/projects/gpt4all.json",
+      "selection_reason": "Popular local LLM desktop client by Nomic AI with public GitHub.",
+      "verified_public_sources": [
+        "https://www.nomic.ai/gpt4all",
+        "https://github.com/nomic-ai/gpt4all"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "guidance",
+      "project_file": "data/projects/guidance.json",
+      "selection_reason": "Microsoft structured generation library with public GitHub repository.",
+      "verified_public_sources": [
+        "https://github.com/guidance-ai/guidance",
+        "https://github.com/guidance-ai/guidance"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "heygen",
+      "project_file": "data/projects/heygen.json",
+      "selection_reason": "AI avatar video platform with public help documentation.",
+      "verified_public_sources": [
+        "https://www.heygen.com",
+        "https://help.heygen.com"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "huggingface",
+      "project_file": "data/projects/huggingface.json",
+      "selection_reason": "Central ML platform with massive public model hub and libraries.",
+      "verified_public_sources": [
+        "https://huggingface.co",
+        "https://github.com/huggingface/transformers",
+        "https://huggingface.co/docs"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "ideogram",
+      "project_file": "data/projects/ideogram.json",
+      "selection_reason": "AI image generator with accurate text rendering and public product.",
+      "verified_public_sources": [
+        "https://ideogram.ai"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "instructor",
+      "project_file": "data/projects/instructor.json",
+      "selection_reason": "Popular structured output library with public docs and GitHub.",
+      "verified_public_sources": [
+        "https://python.useinstructor.com",
+        "https://github.com/jxnl/instructor",
+        "https://python.useinstructor.com"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "invideo",
+      "project_file": "data/projects/invideo.json",
+      "selection_reason": "AI video creation platform with public product.",
+      "verified_public_sources": [
+        "https://invideo.io"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "jan",
+      "project_file": "data/projects/jan.json",
+      "selection_reason": "Open-source local LLM desktop app with public GitHub and docs.",
+      "verified_public_sources": [
+        "https://jan.ai",
+        "https://github.com/janhq/jan",
+        "https://jan.ai/docs"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "jasper",
+      "project_file": "data/projects/jasper.json",
+      "selection_reason": "Major enterprise AI content platform with public help docs.",
+      "verified_public_sources": [
+        "https://www.jasper.ai",
+        "https://help.jasper.ai"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "kimi",
+      "project_file": "data/projects/kimi.json",
+      "selection_reason": "Widely used Chinese AI assistant by Moonshot AI.",
+      "verified_public_sources": [
+        "https://kimi.moonshot.cn"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "koboldcpp",
+      "project_file": "data/projects/koboldcpp.json",
+      "selection_reason": "Popular local LLM executable with public GitHub repository.",
+      "verified_public_sources": [
+        "https://github.com/LostRuins/koboldcpp",
+        "https://github.com/LostRuins/koboldcpp"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "langchain",
+      "project_file": "data/projects/langchain.json",
+      "selection_reason": "Leading open-source LLM framework with clear public GitHub and docs.",
+      "verified_public_sources": [
+        "https://www.langchain.com",
+        "https://github.com/langchain-ai/langchain",
+        "https://python.langchain.com/docs"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "leonardo-ai",
+      "project_file": "data/projects/leonardo-ai.json",
+      "selection_reason": "AI art platform for game assets with public website.",
+      "verified_public_sources": [
+        "https://leonardo.ai"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "llama-cpp",
+      "project_file": "data/projects/llama-cpp.json",
+      "selection_reason": "Foundational C++ LLM inference engine with massive GitHub following.",
+      "verified_public_sources": [
+        "https://github.com/ggerganov/llama.cpp",
+        "https://github.com/ggerganov/llama.cpp"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "llama-stack",
+      "project_file": "data/projects/llama-stack.json",
+      "selection_reason": "Meta standardization initiative with public GitHub and docs.",
+      "verified_public_sources": [
+        "https://llama-stack.ai",
+        "https://github.com/meta-llama/llama-stack",
+        "https://llama-stack.readthedocs.io"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "llamaindex",
+      "project_file": "data/projects/llamaindex.json",
+      "selection_reason": "Leading data framework for LLMs with public GitHub and docs.",
+      "verified_public_sources": [
+        "https://www.llamaindex.ai",
+        "https://github.com/run-llama/llama_index",
+        "https://docs.llamaindex.ai"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "lm-studio",
+      "project_file": "data/projects/lm-studio.json",
+      "selection_reason": "Leading desktop local LLM application with public docs.",
+      "verified_public_sources": [
+        "https://lmstudio.ai",
+        "https://lmstudio.ai/docs"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "localai",
+      "project_file": "data/projects/localai.json",
+      "selection_reason": "Open-source OpenAI API alternative with public docs and GitHub.",
+      "verified_public_sources": [
+        "https://localai.io",
+        "https://github.com/mudler/LocalAI",
+        "https://localai.io/docs"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "lovable",
+      "project_file": "data/projects/lovable.json",
+      "selection_reason": "AI full-stack app builder with public product and documentation.",
+      "verified_public_sources": [
+        "https://lovable.dev"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "luma-ai",
+      "project_file": "data/projects/luma-ai.json",
+      "selection_reason": "Generative 3D and video AI company with public product.",
+      "verified_public_sources": [
+        "https://lumalabs.ai"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "mem0",
+      "project_file": "data/projects/mem0.json",
+      "selection_reason": "Memory layer for AI with public GitHub and documentation.",
+      "verified_public_sources": [
+        "https://mem0.ai",
+        "https://github.com/mem0ai/mem0",
+        "https://docs.mem0.ai"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "meta-gpt",
+      "project_file": "data/projects/meta-gpt.json",
+      "selection_reason": "Representative multi-agent software engineering research project.",
+      "verified_public_sources": [
+        "https://www.deepwisdom.ai",
+        "https://github.com/geekan/MetaGPT"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "midjourney",
+      "project_file": "data/projects/midjourney.json",
+      "selection_reason": "Leading AI image generation platform with public docs.",
+      "verified_public_sources": [
+        "https://www.midjourney.com",
+        "https://docs.midjourney.com"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "milvus",
+      "project_file": "data/projects/milvus.json",
+      "selection_reason": "Cloud-native open-source vector database with CNCF and public GitHub.",
+      "verified_public_sources": [
+        "https://milvus.io",
+        "https://github.com/milvus-io/milvus",
+        "https://milvus.io/docs"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "minimax",
+      "project_file": "data/projects/minimax.json",
+      "selection_reason": "Chinese AI platform with LLM and video generation capabilities.",
+      "verified_public_sources": [
+        "https://www.minimaxi.com"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "mistral-ai",
+      "project_file": "data/projects/mistral-ai.json",
+      "selection_reason": "Major European open-weight LLM company with public docs and API.",
+      "verified_public_sources": [
+        "https://mistral.ai",
+        "https://docs.mistral.ai"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "mlc-llm",
+      "project_file": "data/projects/mlc-llm.json",
+      "selection_reason": "Universal LLM deployment engine with public GitHub and docs.",
+      "verified_public_sources": [
+        "https://llm.mlc.ai",
+        "https://github.com/mlc-ai/mlc-llm",
+        "https://llm.mlc.ai/docs"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "modelscope",
+      "project_file": "data/projects/modelscope.json",
+      "selection_reason": "Alibaba open-source model hub and community with public docs.",
+      "verified_public_sources": [
+        "https://www.modelscope.cn",
+        "https://github.com/modelscope",
+        "https://www.modelscope.cn/docs"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "n8n",
+      "project_file": "data/projects/n8n.json",
+      "selection_reason": "Widely used open-source automation platform with AI agent capabilities.",
+      "verified_public_sources": [
+        "https://n8n.io",
+        "https://github.com/n8n-io/n8n",
+        "https://docs.n8n.io"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "notion-ai",
+      "project_file": "data/projects/notion-ai.json",
+      "selection_reason": "AI features in major workspace platform with public help docs.",
+      "verified_public_sources": [
+        "https://www.notion.so/product/ai",
+        "https://www.notion.so/help/notion-ai"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "ollama",
+      "project_file": "data/projects/ollama.json",
+      "selection_reason": "Leading local LLM runner with large open-source community.",
+      "verified_public_sources": [
+        "https://ollama.com",
+        "https://github.com/ollama/ollama",
+        "https://github.com/ollama/ollama/tree/main/docs"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "open-interpreter",
+      "project_file": "data/projects/open-interpreter.json",
+      "selection_reason": "Natural language computer interface with significant GitHub presence.",
+      "verified_public_sources": [
+        "https://www.openinterpreter.com",
+        "https://github.com/OpenInterpreter/open-interpreter",
+        "https://docs.openinterpreter.com"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "open-webui",
+      "project_file": "data/projects/open-webui.json",
+      "selection_reason": "Popular self-hosted LLM chat interface with public docs.",
+      "verified_public_sources": [
+        "https://openwebui.com",
+        "https://github.com/open-webui/open-webui",
+        "https://docs.openwebui.com"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "openhands",
+      "project_file": "data/projects/openhands.json",
+      "selection_reason": "Open-source autonomous AI software engineer with GitHub and docs.",
+      "verified_public_sources": [
+        "https://www.all-hands.dev",
+        "https://github.com/All-Hands-AI/OpenHands",
+        "https://docs.all-hands.dev"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "otter-ai",
+      "project_file": "data/projects/otter-ai.json",
+      "selection_reason": "AI meeting notes and transcription with public product.",
+      "verified_public_sources": [
+        "https://otter.ai"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "outlines",
+      "project_file": "data/projects/outlines.json",
+      "selection_reason": "Constrained generation library with public GitHub and documentation.",
+      "verified_public_sources": [
+        "https://dottxt.co",
+        "https://github.com/dottxt-ai/outlines",
+        "https://dottxt-ai.github.io/outlines"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "perplexity",
+      "project_file": "data/projects/perplexity.json",
+      "selection_reason": "Leading AI answer engine with public docs and product.",
+      "verified_public_sources": [
+        "https://www.perplexity.ai",
+        "https://docs.perplexity.ai"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "pika",
+      "project_file": "data/projects/pika.json",
+      "selection_reason": "AI video generation platform with public product.",
+      "verified_public_sources": [
+        "https://pika.art"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "pinecone",
+      "project_file": "data/projects/pinecone.json",
+      "selection_reason": "Leading managed vector database with public documentation.",
+      "verified_public_sources": [
+        "https://www.pinecone.io",
+        "https://docs.pinecone.io"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "private-gpt",
+      "project_file": "data/projects/private-gpt.json",
+      "selection_reason": "Offline document QA system with public GitHub repository.",
+      "verified_public_sources": [
+        "https://github.com/zylon-ai/private-gpt",
+        "https://github.com/zylon-ai/private-gpt"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "qdrant",
+      "project_file": "data/projects/qdrant.json",
+      "selection_reason": "High-performance open-source vector search engine with public GitHub.",
+      "verified_public_sources": [
+        "https://qdrant.tech",
+        "https://github.com/qdrant/qdrant",
+        "https://qdrant.tech/documentation"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "r2r",
+      "project_file": "data/projects/r2r.json",
+      "selection_reason": "Production RAG engine with public docs and GitHub repository.",
+      "verified_public_sources": [
+        "https://r2r-docs.sciphi.ai",
+        "https://github.com/SciPhi-AI/R2R",
+        "https://r2r-docs.sciphi.ai"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "ragflow",
+      "project_file": "data/projects/ragflow.json",
+      "selection_reason": "Open-source RAG engine with public GitHub and documentation.",
+      "verified_public_sources": [
+        "https://ragflow.io",
+        "https://github.com/infiniflow/ragflow",
+        "https://ragflow.io/docs"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "recraft",
+      "project_file": "data/projects/recraft.json",
+      "selection_reason": "AI vector design platform with public product.",
+      "verified_public_sources": [
+        "https://www.recraft.ai"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "replit",
+      "project_file": "data/projects/replit.json",
+      "selection_reason": "Cloud IDE with AI agent capabilities and large public user base.",
+      "verified_public_sources": [
+        "https://replit.com"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "runway",
+      "project_file": "data/projects/runway.json",
+      "selection_reason": "Applied AI creative suite with public research and product.",
+      "verified_public_sources": [
+        "https://runwayml.com",
+        "https://help.runwayml.com"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "rytr",
+      "project_file": "data/projects/rytr.json",
+      "selection_reason": "Accessible AI writing assistant with public website.",
+      "verified_public_sources": [
+        "https://rytr.me"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "sglang",
+      "project_file": "data/projects/sglang.json",
+      "selection_reason": "Efficient LLM serving framework with public GitHub and documentation.",
+      "verified_public_sources": [
+        "https://sglang.ai",
+        "https://github.com/sgl-project/sglang",
+        "https://sglang.readthedocs.io"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "stepfun",
+      "project_file": "data/projects/stepfun.json",
+      "selection_reason": "Chinese AI startup with competitive reasoning and coding models.",
+      "verified_public_sources": [
+        "https://www.stepfun.com"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "suno",
+      "project_file": "data/projects/suno.json",
+      "selection_reason": "AI music generation platform with public product.",
+      "verified_public_sources": [
+        "https://suno.com"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "superagi",
+      "project_file": "data/projects/superagi.json",
+      "selection_reason": "Notable autonomous agent framework with public tool marketplace.",
+      "verified_public_sources": [
+        "https://superagi.com",
+        "https://github.com/TransformerOptimus/SuperAGI"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "surferseo",
+      "project_file": "data/projects/surferseo.json",
+      "selection_reason": "SEO content optimization tool with public website.",
+      "verified_public_sources": [
+        "https://surferseo.com"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "synthesia",
+      "project_file": "data/projects/synthesia.json",
+      "selection_reason": "Enterprise AI video platform with public documentation.",
+      "verified_public_sources": [
+        "https://www.synthesia.io",
+        "https://help.synthesia.io"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "tabnine",
+      "project_file": "data/projects/tabnine.json",
+      "selection_reason": "Established AI code completion tool with public documentation.",
+      "verified_public_sources": [
+        "https://www.tabnine.com",
+        "https://www.tabnine.com/docs"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "tally",
+      "project_file": "data/projects/tally.json",
+      "selection_reason": "Free AI form builder with public website.",
+      "verified_public_sources": [
+        "https://tally.so"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "taskingai",
+      "project_file": "data/projects/taskingai.json",
+      "selection_reason": "API-first AI agent platform with public docs and open-source code.",
+      "verified_public_sources": [
+        "https://www.tasking.ai",
+        "https://github.com/TaskingAI/TaskingAI",
+        "https://docs.tasking.ai"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "text-generation-webui",
+      "project_file": "data/projects/text-generation-webui.json",
+      "selection_reason": "Widely used local LLM web interface with large GitHub community.",
+      "verified_public_sources": [
+        "https://github.com/oobabooga/text-generation-webui",
+        "https://github.com/oobabooga/text-generation-webui"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "udio",
+      "project_file": "data/projects/udio.json",
+      "selection_reason": "AI music creation platform with public website.",
+      "verified_public_sources": [
+        "https://www.udio.com"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "v0",
+      "project_file": "data/projects/v0.json",
+      "selection_reason": "AI UI generation tool by Vercel with public product page.",
+      "verified_public_sources": [
+        "https://v0.dev"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "verba",
+      "project_file": "data/projects/verba.json",
+      "selection_reason": "Open-source RAG chatbot by Weaviate with public GitHub repository.",
+      "verified_public_sources": [
+        "https://github.com/weaviate/Verba",
+        "https://github.com/weaviate/Verba"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "vllm",
+      "project_file": "data/projects/vllm.json",
+      "selection_reason": "High-throughput LLM serving engine from UC Berkeley research.",
+      "verified_public_sources": [
+        "https://vllm.ai",
+        "https://github.com/vllm-project/vllm",
+        "https://docs.vllm.ai"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "weaviate",
+      "project_file": "data/projects/weaviate.json",
+      "selection_reason": "Open-source AI-native vector database with public GitHub and docs.",
+      "verified_public_sources": [
+        "https://weaviate.io",
+        "https://github.com/weaviate/weaviate",
+        "https://weaviate.io/developers/weaviate"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "windsurf",
+      "project_file": "data/projects/windsurf.json",
+      "selection_reason": "Agentic AI IDE by Codeium with public documentation.",
+      "verified_public_sources": [
+        "https://codeium.com/windsurf",
+        "https://docs.codeium.com"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "writesonic",
+      "project_file": "data/projects/writesonic.json",
+      "selection_reason": "AI writing platform with public documentation.",
+      "verified_public_sources": [
+        "https://writesonic.com",
+        "https://docs.writesonic.com"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "yi",
+      "project_file": "data/projects/yi.json",
+      "selection_reason": "Open-source bilingual LLM series by 01.AI with public GitHub.",
+      "verified_public_sources": [
+        "https://01.ai",
+        "https://github.com/01-ai/Yi"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    },
+    {
+      "slug": "zhipu",
+      "project_file": "data/projects/zhipu.json",
+      "selection_reason": "Major Chinese AI company with GLM models from Tsinghua research.",
+      "verified_public_sources": [
+        "https://www.zhipuai.cn",
+        "https://github.com/THUDM"
+      ],
+      "verification_status": "verified",
+      "notes": "No private data collected. Public sources only."
+    }
+  ]
+}

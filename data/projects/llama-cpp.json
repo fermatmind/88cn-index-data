@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "llama.cpp",
+  "slug": "llama-cpp",
+  "website_url": "https://github.com/ggerganov/llama.cpp",
+  "category_slug": "open-source-ai",
+  "one_liner": "C/C++ inference engine for running LLMs locally with quantization, GPU acceleration, and minimal dependencies.",
+  "description": "llama.cpp is a high-performance C/C++ implementation of LLM inference optimized for CPU and GPU execution. It supports GGUF model format, various quantization methods, and provides bindings for multiple languages. Runs on desktops, servers, and edge devices.",
+  "github_url": "https://github.com/ggerganov/llama.cpp",
+  "tags": ["inference", "quantization", "local-llm", "cpp"],
+  "tech_stack": ["docker"],
+  "source_type": "open-source-repo",
+  "region": "global",
+  "language": "en"
+}

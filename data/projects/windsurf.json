@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Windsurf",
+  "slug": "windsurf",
+  "website_url": "https://codeium.com/windsurf",
+  "category_slug": "ai-coding",
+  "one_liner": "AI-powered IDE with agentic code flows, multi-file editing, and integrated terminal assistance.",
+  "description": "Windsurf by Codeium is an AI-powered IDE that features Cascade, an agent-based code assistant capable of understanding multi-file contexts and performing complex refactoring tasks. It combines code completion, chat, and agent capabilities in a VS Code-fork editor.",
+  "docs_url": "https://docs.codeium.com",
+  "tags": ["code-editor", "ai-ide", "agent", "refactoring"],
+  "tech_stack": ["openai"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

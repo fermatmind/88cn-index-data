@@ -1,0 +1,22 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Zhipu AI",
+  "slug": "zhipu",
+  "website_url": "https://www.zhipuai.cn",
+  "one_liner": "Chinese AI company developing the GLM series models, ChatGLM, and enterprise AI platform.",
+  "description": "Zhipu AI develops the GLM series of large language and multimodal models including ChatGLM and CodeGeeX. It offers enterprise AI solutions through its platform and has released open-source models. Spun out from Tsinghua University research.",
+  "github_url": "https://github.com/THUDM",
+  "tags": [
+    "llm",
+    "multimodal",
+    "chatglm",
+    "enterprise"
+  ],
+  "category_slug": "chinese-ai-builders",
+  "tech_stack": [
+    "python"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "china",
+  "language": "zh"
+}

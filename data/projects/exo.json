@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Exo",
+  "slug": "exo",
+  "website_url": "https://github.com/exo-explore/exo",
+  "category_slug": "open-source-ai",
+  "one_liner": "Distributed LLM inference across devices — runs models by splitting across phones, laptops, and servers.",
+  "description": "Exo enables running large language models across multiple devices by automatically discovering and distributing model layers across available hardware. Supports consumer devices including phones, MacBooks, and Raspberry Pis connected via peer-to-peer networking.",
+  "github_url": "https://github.com/exo-explore/exo",
+  "tags": ["distributed-inference", "p2p", "edge-computing"],
+  "tech_stack": ["python"],
+  "source_type": "open-source-repo",
+  "region": "global",
+  "language": "en"
+}

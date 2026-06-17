@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "n8n",
+  "slug": "n8n",
+  "website_url": "https://n8n.io",
+  "category_slug": "ai-agents",
+  "one_liner": "Open-source workflow automation platform with AI agent capabilities and 400+ integrations.",
+  "description": "n8n is a fair-code workflow automation tool that connects services through a visual editor. Its AI features enable LLM-powered nodes, autonomous agent workflows, and RAG integrations. Self-hostable with enterprise cloud options available.",
+  "github_url": "https://github.com/n8n-io/n8n",
+  "docs_url": "https://docs.n8n.io",
+  "tags": ["agent", "workflow-automation", "low-code"],
+  "tech_stack": ["nodejs", "postgres", "docker"],
+  "source_type": "maintainer-scouted",
+  "region": "europe",
+  "language": "en"
+}

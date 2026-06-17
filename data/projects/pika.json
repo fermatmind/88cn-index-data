@@ -1,0 +1,22 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Pika",
+  "slug": "pika",
+  "website_url": "https://pika.art",
+  "category_slug": "ai-video-tools",
+  "one_liner": "AI video generation platform turning text prompts and images into short-form creative videos.",
+  "description": "Pika is an AI video generation platform that creates short video clips from text descriptions or image inputs. It offers creative styles, lip-sync features, and video editing capabilities. Available through web interface with community sharing features.",
+  "tags": [
+    "video-generation",
+    "text-to-video",
+    "creative",
+    "short-form"
+  ],
+  "tech_stack": [
+    "react"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en",
+  "docs_url": "https://pika.art/docs"
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "PrivateGPT",
+  "slug": "private-gpt",
+  "website_url": "https://github.com/zylon-ai/private-gpt",
+  "one_liner": "Offline document Q&A system using local LLMs for private, air-gapped document intelligence.",
+  "description": "PrivateGPT enables local document question-answering without internet connectivity. It processes documents, creates embeddings locally, and answers questions using a local LLM. Supports multiple document formats and runs entirely offline for sensitive environments.",
+  "github_url": "https://github.com/zylon-ai/private-gpt",
+  "category_slug": "local-llm",
+  "tags": [
+    "local-llm",
+    "document-qa",
+    "offline",
+    "privacy"
+  ],
+  "tech_stack": [
+    "python",
+    "docker"
+  ],
+  "region": "global",
+  "language": "en",
+  "source_type": "maintainer-scouted"
+}

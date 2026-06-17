@@ -1,0 +1,24 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Cortex",
+  "slug": "cortex",
+  "website_url": "https://cortex.so",
+  "one_liner": "Local AI platform for running and managing LLMs through a command-line interface and API server.",
+  "description": "Cortex by Jan is a C++ engine for running LLMs locally with a focus on performance and extensibility. It supports GGUF models, provides an OpenAI-compatible API, and integrates with the Jan desktop application for a complete local AI stack.",
+  "github_url": "https://github.com/janhq/cortex",
+  "docs_url": "https://cortex.so/docs",
+  "category_slug": "local-llm",
+  "tags": [
+    "local-llm",
+    "inference",
+    "cpp",
+    "api-server"
+  ],
+  "tech_stack": [
+    "nodejs",
+    "docker"
+  ],
+  "region": "global",
+  "language": "en",
+  "source_type": "maintainer-scouted"
+}

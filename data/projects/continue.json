@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Continue",
+  "slug": "continue",
+  "website_url": "https://continue.dev",
+  "category_slug": "ai-coding",
+  "one_liner": "Open-source AI code assistant IDE extension with model flexibility and deep codebase context.",
+  "description": "Continue is an open-source IDE extension that brings AI-powered chat, autocomplete, and edit capabilities to VS Code and JetBrains. It supports any LLM provider, allows custom slash commands, and indexes codebases for context-aware assistance.",
+  "github_url": "https://github.com/continuedev/continue",
+  "docs_url": "https://docs.continue.dev",
+  "tags": ["code-completion", "ide-extension", "open-source", "chat"],
+  "tech_stack": ["nodejs", "python", "openai", "langchain"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

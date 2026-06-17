@@ -1,0 +1,26 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "v0",
+  "slug": "v0",
+  "website_url": "https://v0.dev",
+  "category_slug": "ai-coding",
+  "one_liner": "AI-powered UI generation tool that creates production-ready React components from text prompts.",
+  "description": "v0 by Vercel generates React and Next.js UI components from natural language descriptions. It produces Tailwind CSS and shadcn/ui-compatible code, with iterative refinement through conversational prompting. Components are copyable or installable via CLI.",
+  "tags": [
+    "ui-generation",
+    "frontend",
+    "code-generation"
+  ],
+  "tech_stack": [
+    "nextjs",
+    "react",
+    "tailwind",
+    "shadcn",
+    "vercel",
+    "openai"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en",
+  "docs_url": "https://v0.dev/docs"
+}

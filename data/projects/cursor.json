@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Cursor",
+  "slug": "cursor",
+  "website_url": "https://cursor.com",
+  "category_slug": "ai-coding",
+  "one_liner": "AI-first code editor built on VS Code with integrated chat, inline editing, and agent capabilities.",
+  "description": "Cursor is a code editor forked from VS Code that deeply integrates AI features including multi-file edits through composer, AI chat with codebase context, and an agent mode for complex refactoring. Supports multiple LLM providers.",
+  "docs_url": "https://docs.cursor.com",
+  "tags": ["code-editor", "ai-ide", "code-generation", "agent"],
+  "tech_stack": ["openai", "anthropic"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

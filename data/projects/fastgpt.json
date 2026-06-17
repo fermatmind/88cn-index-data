@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "FastGPT",
+  "slug": "fastgpt",
+  "website_url": "https://fastgpt.cn",
+  "one_liner": "Open-source knowledge base Q&A platform with AI workflow orchestration for Chinese language scenarios.",
+  "description": "FastGPT is an open-source AI knowledge base platform optimized for Chinese language applications. It provides visual workflow orchestration, RAG-based document Q&A, and integration with multiple LLM providers. Includes user management and permission controls for enterprise deployment.",
+  "github_url": "https://github.com/labring/FastGPT",
+  "docs_url": "https://doc.fastgpt.cn",
+  "tags": ["knowledge-base", "rag", "workflow", "qa"],
+  "category_slug": "chinese-ai-builders",
+  "tech_stack": ["python", "nodejs", "react", "postgres", "docker"],
+  "source_type": "maintainer-scouted",
+  "region": "china",
+  "language": "zh"
+}

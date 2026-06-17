@@ -1,0 +1,15 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Descript",
+  "slug": "descript",
+  "website_url": "https://www.descript.com",
+  "category_slug": "ai-video-tools",
+  "one_liner": "All-in-one video and audio editor with AI transcription, voice cloning, and script-based editing.",
+  "description": "Descript is a video and podcast editing platform that treats media as text documents. Users edit audio and video by editing the transcript. Includes AI-powered features like overdub voice cloning, filler word removal, screen recording, and collaboration tools.",
+  "docs_url": "https://help.descript.com",
+  "tags": ["video-editing", "podcast", "transcription", "voice-cloning"],
+  "tech_stack": ["react", "python", "nodejs"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "LM Studio",
+  "slug": "lm-studio",
+  "website_url": "https://lmstudio.ai",
+  "one_liner": "Desktop application for discovering, downloading, and running LLMs locally through a chat interface.",
+  "description": "LM Studio is a desktop application for running LLMs locally on consumer hardware. It enables users to download models from Hugging Face, run them through a chat UI, and expose an OpenAI-compatible local server. Supports GPU acceleration and model configuration.",
+  "docs_url": "https://lmstudio.ai/docs",
+  "category_slug": "local-llm",
+  "tags": [
+    "desktop-app",
+    "local-llm",
+    "model-runner",
+    "chat-ui"
+  ],
+  "tech_stack": [
+    "ollama",
+    "python"
+  ],
+  "region": "global",
+  "language": "en",
+  "source_type": "maintainer-scouted"
+}

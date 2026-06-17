@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "vLLM",
+  "slug": "vllm",
+  "website_url": "https://vllm.ai",
+  "category_slug": "open-source-ai",
+  "one_liner": "High-throughput LLM serving engine with PagedAttention for efficient inference at scale.",
+  "description": "vLLM is a high-performance LLM inference and serving engine developed at UC Berkeley. It uses PagedAttention to manage KV-cache memory efficiently, enabling high-throughput serving. Supports quantization, multi-GPU, prefix caching, and an OpenAI-compatible API.",
+  "github_url": "https://github.com/vllm-project/vllm",
+  "docs_url": "https://docs.vllm.ai",
+  "tags": ["inference", "serving", "throughput", "llm-deployment"],
+  "tech_stack": ["python", "docker"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

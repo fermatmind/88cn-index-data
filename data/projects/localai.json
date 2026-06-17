@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "LocalAI",
+  "slug": "localai",
+  "website_url": "https://localai.io",
+  "category_slug": "open-source-ai",
+  "one_liner": "Open-source, self-hosted alternative to OpenAI API supporting multiple model backends on consumer hardware.",
+  "description": "LocalAI is a drop-in OpenAI API replacement that runs locally. It supports LLMs via llama.cpp backends, image generation, audio transcription, text-to-speech, and embeddings. No GPU required. Deployable as a Docker container with a REST API.",
+  "github_url": "https://github.com/mudler/LocalAI",
+  "docs_url": "https://localai.io/docs",
+  "tags": ["api-server", "local-llm", "openai-compatible", "self-hosted"],
+  "tech_stack": ["python", "docker", "openai"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

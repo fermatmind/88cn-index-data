@@ -1,0 +1,25 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Mem0",
+  "slug": "mem0",
+  "website_url": "https://mem0.ai",
+  "one_liner": "Memory layer for AI applications providing personalized, long-term user memory management.",
+  "description": "Mem0 provides a memory infrastructure layer for AI applications that enables personalized user experiences through long-term memory management. It stores, retrieves, and updates user-relevant information across sessions, with APIs for integration into AI agents and chatbots.",
+  "github_url": "https://github.com/mem0ai/mem0",
+  "docs_url": "https://docs.mem0.ai",
+  "category_slug": "rag-tools",
+  "tags": [
+    "memory",
+    "personalization",
+    "agent",
+    "long-term-memory"
+  ],
+  "tech_stack": [
+    "python",
+    "openai",
+    "postgres"
+  ],
+  "region": "global",
+  "language": "en",
+  "source_type": "maintainer-scouted"
+}

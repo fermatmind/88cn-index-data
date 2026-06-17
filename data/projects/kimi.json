@@ -1,0 +1,22 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Kimi",
+  "slug": "kimi",
+  "website_url": "https://kimi.moonshot.cn",
+  "one_liner": "AI assistant by Moonshot AI offering long-context conversational search and document analysis in Chinese.",
+  "description": "Kimi by Moonshot AI is a Chinese AI assistant known for long-context processing capabilities. It can analyze lengthy documents, conduct research conversations, and search the web. Supports file uploads for document Q&A and is widely used in China's professional sectors.",
+  "tags": [
+    "chatbot",
+    "long-context",
+    "document-analysis",
+    "search"
+  ],
+  "category_slug": "chinese-ai-builders",
+  "tech_stack": [
+    "python"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "china",
+  "language": "zh",
+  "docs_url": "https://platform.moonshot.cn/docs"
+}

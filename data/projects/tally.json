@@ -1,0 +1,24 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Tally",
+  "slug": "tally",
+  "website_url": "https://tally.so",
+  "category_slug": "ai-microsaas",
+  "one_liner": "Free online form builder with AI form generation from natural language descriptions.",
+  "description": "Tally is a form builder that uses AI to generate complete forms from text prompts. It offers unlimited forms and responses on the free plan, with features like conditional logic, payment collection, team collaboration, and integrations with popular business tools.",
+  "tags": [
+    "forms",
+    "surveys",
+    "no-code",
+    "ai-form-builder"
+  ],
+  "tech_stack": [
+    "nextjs",
+    "react",
+    "supabase"
+  ],
+  "source_type": "maintainer-scouted",
+  "region": "europe",
+  "language": "en",
+  "docs_url": "https://tally.so/help"
+}

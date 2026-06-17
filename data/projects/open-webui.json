@@ -1,0 +1,16 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "Open WebUI",
+  "slug": "open-webui",
+  "website_url": "https://openwebui.com",
+  "category_slug": "open-source-ai",
+  "one_liner": "Self-hosted web-based chat interface for LLMs with RAG, multi-user support, and Ollama integration.",
+  "description": "Open WebUI provides a feature-complete chat interface for LLMs with user management, chat history, document RAG, web search integration, and model management. Connects to Ollama and OpenAI-compatible APIs. Self-hostable with Docker.",
+  "github_url": "https://github.com/open-webui/open-webui",
+  "docs_url": "https://docs.openwebui.com",
+  "tags": ["chat-ui", "self-hosted", "rag", "ollama"],
+  "tech_stack": ["python", "svelte", "docker", "ollama"],
+  "source_type": "maintainer-scouted",
+  "region": "global",
+  "language": "en"
+}

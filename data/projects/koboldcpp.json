@@ -1,0 +1,22 @@
+{
+  "schema_version": "88cn-project-v1",
+  "name": "KoboldCPP",
+  "slug": "koboldcpp",
+  "website_url": "https://github.com/LostRuins/koboldcpp",
+  "one_liner": "Self-contained executable for running GGUF models locally with an integrated web UI and API.",
+  "description": "KoboldCPP is a standalone executable that bundles llama.cpp inference with a web-based chat and story-writing interface. Supports GGUF models, GPU acceleration, and provides a KoboldAI-compatible API. No Python installation required.",
+  "github_url": "https://github.com/LostRuins/koboldcpp",
+  "category_slug": "local-llm",
+  "tags": [
+    "local-llm",
+    "inference",
+    "web-ui",
+    "single-executable"
+  ],
+  "tech_stack": [
+    "docker"
+  ],
+  "region": "global",
+  "language": "en",
+  "source_type": "maintainer-scouted"
+}
